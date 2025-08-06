@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Мобильный CRMP исходник</strong><br>
   Исходный код проекта Dream Mobile
-  Основанный на исходниках закрытого проекта - "Brilliant RP"
+   <strong>Основанный на исходниках закрытого проекта - "Brilliant RP"</strong><br>
 </p>
 
 <p align="center">
