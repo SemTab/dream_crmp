@@ -23,8 +23,11 @@
 - Android SDK
 - XML layouts
 - TCP / RPC / Socket взаимодействие
-- CPP/c++
+- CPP
+- Android NDK
 
 ---
-
+<p align="center">
+  <strong>Удачного использования❤️</strong><br>
+</p>
 
