@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout 
+    android:id="@+id/root" 
+    android:background="#212529"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:layout_marginBottom="@dimen/_30sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="НЕ ЗАКРЫВАЙТЕ ПРИЛОЖЕНИЕ ДО ЗАВЕРШЕНИЯ ЗАГРУЗКИ"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_12sdp"
+        android:textAlignment="center"
+        android:alpha="0.9"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+        
+    <ImageView 
+        android:id="@id/imageView7" 
+        android:layout_width="@dimen/_200sdp" 
+        android:layout_height="@dimen/_200sdp" 
+        android:layout_marginTop="@dimen/_34sdp" 
+        android:src="@drawable/logo_no_map"
+        app:layout_constraintEnd_toEndOf="parent" 
+        app:layout_constraintStart_toStartOf="parent" 
+        app:layout_constraintTop_toTopOf="parent" />
+        
+    <View
+        android:id="@+id/logoGlowLoad"
+        android:layout_width="@dimen/_210sdp"
+        android:layout_height="@dimen/_210sdp"
+        android:background="@drawable/circle_glow"
+        android:alpha="0.4"
+        app:layout_constraintEnd_toEndOf="@id/imageView7"
+        app:layout_constraintStart_toStartOf="@id/imageView7"
+        app:layout_constraintTop_toTopOf="@id/imageView7"
+        app:layout_constraintBottom_toBottomOf="@id/imageView7" />
+
+    <LinearLayout
+        android:id="@+id/progressContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_14sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/brp_launcher_load_progress_titile">
+        
+        <ProgressBar
+            android:id="@+id/brp_launcher_load_progress_bar"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_14sdp"
+            android:max="100"
+            android:progress="0"
+            android:progressDrawable="@drawable/loading_progress_bar" />
+            
+        <ProgressBar
+            android:id="@+id/brp_launcher_load_progress_bar_inter"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_14sdp"
+            android:indeterminate="true"
+            android:indeterminateDrawable="@drawable/loading_progress_bar"
+            android:max="100"
+            android:visibility="invisible"
+            android:progress="0"
+            android:progressDrawable="@drawable/loading_progress_bar" />
+    </LinearLayout>
+
+    <TextView 
+        android:textSize="@dimen/_15sdp" 
+        android:textColor="#FFFFFF" 
+        android:id="@+id/brp_launcher_load_unzip_text" 
+        android:visibility="gone" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/_50sdp" 
+        android:text="Идет распаковка архива..." 
+        android:fontFamily="@font/akrobat_bold" 
+        app:layout_constraintEnd_toEndOf="parent" 
+        app:layout_constraintStart_toStartOf="parent" 
+        app:layout_constraintTop_toBottomOf="@id/imageView7" />
+        
+    <TextView 
+        android:textSize="@dimen/_14sdp" 
+        android:textColor="#FFFFFF"
+        android:id="@+id/brp_launcher_load_progress_titile" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/_45sdp"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:text="Подготовка к загрузке..." 
+        android:fontFamily="@font/akrobat_bold" 
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageView7" />
+        
+    <TextView 
+        android:textSize="@dimen/_14sdp" 
+        android:textColor="#3DB9FF"
+        android:id="@+id/brp_launcher_load_progress_text" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/_45sdp" 
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:text="0%" 
+        android:fontFamily="@font/akrobat_bold" 
+        app:layout_constraintEnd_toEndOf="parent" 
+        app:layout_constraintTop_toBottomOf="@id/imageView7" />
+
+    <TextView
+        android:id="@+id/brp_launcher_load_progress_text_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_14sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="0.0 MB из 0.0 MB"
+        android:textColor="#3DB9FF"
+        android:textSize="@dimen/_12sdp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/progressContainer" />
+</androidx.constraintlayout.widget.ConstraintLayout>

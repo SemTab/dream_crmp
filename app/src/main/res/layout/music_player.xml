@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/musicPlayerLayout"
+    android:background="#212529"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <View
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_70sdp"
+        android:background="#1A1D21"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+        android:id="@+id/musicPlayerBackBtn"
+        android:background="#2A2E33"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:drawableStart="@drawable/ic_arrow_back"
+        android:paddingStart="@dimen/_12sdp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/musicPlayerTitle"
+        android:textSize="@dimen/_20sdp"
+        android:textColor="#FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:text="БУМБОКС"
+        android:fontFamily="@font/akrobat_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/musicPlayerBackBtn" />
+
+    <TextView
+        android:id="@+id/musicPlayerSubtitle"
+        android:textSize="@dimen/_12sdp"
+        android:textColor="#80FFFFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:text="Слушай музыку во время игры"
+        android:fontFamily="@font/montserrat_regular"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/musicPlayerTitle" />
+
+    <ImageView
+        android:id="@+id/musicPlayerCoverArt"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="@dimen/_180sdp"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:background="#2A2E33"
+        android:padding="@dimen/_2sdp"
+        android:src="@drawable/ic_boombox"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/musicPlayerSubtitle" />
+
+    <TextView
+        android:id="@+id/currentTrackTitle"
+        android:textSize="@dimen/_18sdp"
+        android:textColor="#FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginHorizontal="@dimen/_32sdp"
+        android:gravity="center"
+        android:text="Название трека"
+        android:fontFamily="@font/akrobat_bold"
+        app:layout_constraintTop_toBottomOf="@id/musicPlayerCoverArt" />
+
+    <TextView
+        android:id="@+id/currentTrackArtist"
+        android:textSize="@dimen/_14sdp"
+        android:textColor="#80FFFFFF"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_32sdp"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:gravity="center"
+        android:text="Исполнитель"
+        android:fontFamily="@font/montserrat_regular"
+        app:layout_constraintTop_toBottomOf="@id/currentTrackTitle" />
+
+    <LinearLayout
+        android:id="@+id/playerProgressLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_24sdp"
+        android:layout_marginHorizontal="@dimen/_32sdp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/currentTrackArtist">
+
+        <TextView
+            android:id="@+id/currentTimeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0:00"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/montserrat_regular"/>
+
+        <SeekBar
+            android:id="@+id/musicSeekBar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:progressDrawable="@drawable/music_player_seekbar_style"
+            android:thumb="@drawable/music_player_seekbar_thumb"/>
+
+        <TextView
+            android:id="@+id/totalTimeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3:30"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/montserrat_regular"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/playerControlsLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_24sdp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/playerProgressLayout">
+
+        <ImageButton
+            android:id="@+id/prevButton"
+            android:layout_width="@dimen/_48sdp"
+            android:layout_height="@dimen/_48sdp"
+            android:background="@drawable/music_player_button_bg"
+            android:src="@drawable/ic_skip_previous"
+            android:padding="@dimen/_12sdp"
+            android:layout_marginEnd="@dimen/_16sdp"/>
+
+        <ImageButton
+            android:id="@+id/playPauseButton"
+            android:layout_width="@dimen/_64sdp"
+            android:layout_height="@dimen/_64sdp"
+            android:background="@drawable/music_player_play_button_bg"
+            android:padding="@dimen/_16sdp"
+            android:src="@drawable/ic_play_music" />
+
+        <ImageButton
+            android:id="@+id/nextButton"
+            android:layout_width="@dimen/_48sdp"
+            android:layout_height="@dimen/_48sdp"
+            android:background="@drawable/music_player_button_bg"
+            android:src="@drawable/ic_skip_next"
+            android:padding="@dimen/_12sdp"
+            android:layout_marginStart="@dimen/_16sdp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/playlistCard"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/_24sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp"
+        app:layout_constraintTop_toBottomOf="@id/playerControlsLayout"
+        app:layout_constraintBottom_toBottomOf="parent">
+            
+        <TextView 
+            android:textSize="@dimen/_16sdp" 
+            android:textColor="#FFFFFF" 
+            android:id="@+id/playlistTitle" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Плейлист" 
+            android:fontFamily="@font/akrobat_bold" />
+                
+        <androidx.recyclerview.widget.RecyclerView 
+            android:id="@+id/rvPlaylist" 
+            android:layout_width="match_parent" 
+            android:layout_height="match_parent" 
+            android:layout_marginTop="@dimen/_12sdp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/addMusicBtn"
+        android:layout_width="@dimen/_48sdp"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:drawableStart="@drawable/ic_add_music"
+        android:paddingStart="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout> 

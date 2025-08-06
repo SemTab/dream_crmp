@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/motionLayouts" 
+    android:background="#212529" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <View
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_70sdp"
+        android:background="#1A1D21"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <Button
+        android:id="@+id/brp_launcher_settings_btn"
+        android:layout_width="@dimen/_48sdp"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:drawableStart="@drawable/ic_settings_new_icon"
+        android:paddingStart="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/brp_launcher_faq_btn"
+        android:layout_width="@dimen/_48sdp"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:background="#2A2E33"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="FAQ"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_14sdp"
+        app:layout_constraintEnd_toStartOf="@+id/brp_launcher_settings_btn"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/brp_launcher_donate_btn"
+        android:layout_width="@dimen/_48sdp"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:background="#2A2E33"
+        android:drawableStart="@drawable/ic_donate_colored"
+        android:paddingStart="@dimen/_14sdp"
+        app:layout_constraintEnd_toStartOf="@+id/brp_launcher_faq_btn"
+        app:layout_constraintTop_toTopOf="parent" />
+        
+    <LinearLayout
+        android:id="@+id/newsCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp"
+        app:layout_constraintTop_toBottomOf="@id/topBar">
+            
+        <TextView 
+            android:textSize="@dimen/_18sdp" 
+            android:textColor="#FFFFFF" 
+            android:id="@+id/textView3" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Новости" 
+            android:fontFamily="@font/akrobat_bold" />
+                
+        <androidx.recyclerview.widget.RecyclerView 
+            android:orientation="horizontal" 
+            android:id="@+id/rvNews" 
+            android:layout_width="fill_parent" 
+            android:layout_height="@dimen/_140sdp" 
+            android:layout_marginTop="@dimen/_12sdp" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/serversCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp"
+        app:layout_constraintTop_toBottomOf="@id/newsCard">
+            
+        <TextView 
+            android:textSize="@dimen/_18sdp" 
+            android:textColor="#FFFFFF"
+            android:id="@+id/textView4" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Наши сервера" 
+            android:fontFamily="@font/akrobat_bold" />
+                
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvServers"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/_110sdp"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:orientation="horizontal" />
+    </LinearLayout>
+
+    <Button 
+        android:id="@+id/brp_launcher_play" 
+        android:background="#1A73E8"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_24sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="ИГРАТЬ"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_24sdp"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <TextView
+        android:id="@+id/brp_launcher_donate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawablePadding="@dimen/_5sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:gravity="center"
+        android:text="Пополнить счёт"
+        android:textAllCaps="false"
+        android:textColor="#1A73E8"
+        android:textSize="@dimen/_17sdp"
+        android:visibility="gone"
+        app:drawableLeftCompat="@drawable/ic_wallet"
+        tools:layout_editor_absoluteX="139dp"
+        tools:layout_editor_absoluteY="89dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

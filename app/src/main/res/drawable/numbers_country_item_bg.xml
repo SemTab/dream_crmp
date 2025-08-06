@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mileagebg">
+        <shape>
+            <corners android:radius="@dimen/_5sdp" />
+
+            <solid android:color="#59000000" />
+
+            <stroke
+                android:width="@dimen/_1sdp"
+                android:color="#0F7DFF" />
+        </shape>
+    </item>
+</layer-list>

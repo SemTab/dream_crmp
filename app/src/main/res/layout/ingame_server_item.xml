@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ingame_server_background"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_80sdp"
+    android:layout_marginBottom="@dimen/_10sdp"
+    android:background="#2A2E33"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <ImageView
+        android:id="@+id/ingame_server_icon"
+        android:layout_width="@dimen/_50sdp"
+        android:layout_height="@dimen/_50sdp"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:src="@drawable/logo_no_map"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/ingame_server_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="Cullinan"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintBottom_toTopOf="@+id/ingame_server_status"
+        app:layout_constraintEnd_toStartOf="@+id/ingame_server_online"
+        app:layout_constraintStart_toEndOf="@+id/ingame_server_icon"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <TextView
+        android:id="@+id/ingame_server_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="Онлайн сервер"
+        android:textColor="#AAAAAA"
+        android:textSize="@dimen/_12sdp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/ingame_server_name"
+        app:layout_constraintTop_toBottomOf="@+id/ingame_server_name" />
+
+    <LinearLayout
+        android:id="@+id/ingame_server_tags"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="@+id/ingame_server_status"
+        app:layout_constraintStart_toEndOf="@+id/ingame_server_status"
+        app:layout_constraintTop_toTopOf="@+id/ingame_server_status">
+
+        <TextView
+            android:id="@+id/ingame_server_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#1A1D21"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text="ТЕСТОВЫЙ"
+            android:textColor="#FFDA44"
+            android:textSize="@dimen/_8sdp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/ingame_server_x2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:background="#1A73E8"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text="X2"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_8sdp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/ingame_server_maintenance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:background="#FF4444"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text="ТЕХ. РАБОТЫ"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_8sdp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/ingame_server_online"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="520"
+        android:textColor="#6BFF73"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintBottom_toTopOf="@+id/ingame_server_max"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <TextView
+        android:id="@+id/ingame_server_max"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="/1000"
+        android:textColor="#80FFFFFF"
+        android:textSize="@dimen/_12sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/ingame_server_online"
+        app:layout_constraintTop_toBottomOf="@+id/ingame_server_online" />
+
+</androidx.constraintlayout.widget.ConstraintLayout> 

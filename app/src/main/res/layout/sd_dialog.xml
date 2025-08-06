@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/sd_dialog_main" android:layout_width="match_parent" android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/dialog" android:background="@drawable/dialog_bg" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/sd_dialog_body" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_12sdp" android:layout_marginBottom="@dimen/_16sdp" android:maxWidth="@dimen/_400sdp" android:layout_marginStart="@dimen/_16sdp" android:layout_marginEnd="@dimen/_16sdp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHeight_max="@dimen/_217sdp" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+            <TextView android:textSize="@dimen/_14sdp" android:textColor="#FFFFFF" android:id="@+id/sd_dialog_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Название окна" android:maxLines="1" android:lines="1" android:singleLine="true" android:fontFamily="@font/akrobat_bold" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+
+            <ScrollView
+                android:id="@+id/sd_dialog_text_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:fadeScrollbars="true"
+                android:paddingEnd="@dimen/_8sdp"
+                android:scrollbarSize="@dimen/_4sdp"
+                android:scrollbarStyle="outsideOverlay"
+                android:scrollbarThumbVertical="@drawable/quest_scrollbar_vertical_thumb"
+                android:scrollbarTrackVertical="@drawable/quest_scrollbar_vertical_track"
+                android:scrollbars="vertical"
+                android:visibility="gone"
+                app:layout_constraintBottom_toTopOf="@+id/dialog_buttons"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHeight_max="@dimen/_171sdp"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sd_dialog_caption"
+                app:layout_constraintVertical_bias="0.0">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/sd_dialog_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/akrobat_bold"
+                        android:maxWidth="@dimen/_400sdp"
+                        android:text="Text\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText\nText"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                </LinearLayout>
+            </ScrollView>
+            <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/sd_dialog_input_layout" android:background="@drawable/dialog_input_bg" android:visibility="visible" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:layout_marginBottom="@dimen/_8sdp" app:layout_constraintBottom_toTopOf="@+id/dialog_buttons" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.0" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/sd_dialog_text_layout">
+                <com.nvidia.devtech.CustomEditText
+                    android:textSize="@dimen/_12sdp"
+                    android:textColor="#FFFFFF"
+                    android:textColorHint="#80FFFFFF"
+                    android:id="@+id/sd_dialog_input"
+                    android:background="@android:color/transparent"
+                    android:paddingTop="@dimen/_8sdp"
+                    android:paddingBottom="@dimen/_8sdp"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:hint="Нажмите для ввода..."
+                    android:maxLines="1"
+                    android:lines="1"
+                    android:singleLine="true"
+                    android:inputType="textShortMessage"
+                    android:imeOptions="actionDone|flagNoExtractUi|flagNoFullscreen"
+                    android:fontFamily="@font/akrobat_bold"
+                    android:paddingStart="@dimen/_10sdp"
+                    android:paddingEnd="@dimen/_10sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/sd_dialog_list_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:visibility="gone"
+                app:layout_constraintBottom_toTopOf="@+id/dialog_buttons"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHeight_max="@dimen/_171sdp"
+                app:layout_constraintHeight_min="@dimen/_171sdp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/sd_dialog_caption">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/sd_dialog_tablist_row"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="@dimen/_9sdp"
+                    android:paddingEnd="@dimen/_17sdp"
+                    android:paddingBottom="@dimen/_3sdp"
+                    android:visibility="visible"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/dialog_field1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/akrobat_bold"
+                        android:gravity="left"
+                        android:lines="1"
+                        android:maxLines="1"
+                        android:paddingEnd="@dimen/_5sdp"
+                        android:singleLine="true"
+                        android:text=""
+                        android:textColor="#FFFFFF"
+                        android:textSize="@dimen/_12sdp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/dialog_field2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/akrobat_bold"
+                        android:gravity="left"
+                        android:lines="1"
+                        android:maxLines="1"
+                        android:paddingEnd="@dimen/_5sdp"
+                        android:singleLine="true"
+                        android:text=""
+                        android:textColor="#FFFFFF"
+                        android:textSize="@dimen/_12sdp"
+                        app:layout_constraintStart_toEndOf="@+id/dialog_field1"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/dialog_field3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/akrobat_bold"
+                        android:gravity="left"
+                        android:lines="1"
+                        android:maxLines="1"
+                        android:paddingEnd="@dimen/_5sdp"
+                        android:singleLine="true"
+                        android:text=""
+                        android:textColor="#FFFFFF"
+                        android:textSize="@dimen/_12sdp"
+                        app:layout_constraintStart_toEndOf="@+id/dialog_field2"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/dialog_field4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/akrobat_bold"
+                        android:gravity="left"
+                        android:lines="1"
+                        android:maxLines="1"
+                        android:paddingEnd="20.0px"
+                        android:singleLine="true"
+                        android:text=""
+                        android:textColor="#FFFFFF"
+                        android:textSize="@dimen/_12sdp"
+                        app:layout_constraintStart_toEndOf="@+id/dialog_field3"
+                        app:layout_constraintTop_toTopOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/dialog_list"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:visibility="visible"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/sd_dialog_tablist_row">
+
+                    <com.dmob.cr.gui.util.CustomRecyclerView
+                        android:id="@+id/sd_dialog_list_recycler"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginStart="@dimen/_4sdp"
+                        android:layout_marginTop="@dimen/_4sdp"
+                        android:layout_marginEnd="@dimen/_4sdp"
+                        android:layout_marginBottom="@dimen/_4sdp"
+                        android:fadeScrollbars="false"
+                        android:minWidth="@dimen/_141sdp"
+                        android:scrollbarSize="@dimen/_4sdp"
+                        android:scrollbarStyle="outsideOverlay"
+                        android:scrollbarThumbVertical="@drawable/quest_scrollbar_vertical_thumb"
+                        android:scrollbarTrackVertical="@drawable/quest_scrollbar_vertical_track"
+                        android:scrollbars="vertical"
+                        android:visibility="visible"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+            <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/dialog_buttons" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_8sdp" android:layout_marginStart="@dimen/_6sdp" android:layout_marginEnd="@dimen/_6sdp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/sd_dialog_caption" app:layout_constraintVertical_bias="1.0">
+                <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/sd_button_positive" android:background="@drawable/dialog_first_btn_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+                    <TextView android:textSize="@dimen/_12sdp" android:textColor="#FFFFFF" android:id="@+id/sd_button_positive_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_6sdp" android:layout_marginBottom="@dimen/_6sdp" android:text="Войти" android:maxLines="1" android:lines="1" android:singleLine="true" android:fontFamily="@font/akrobat_bold" android:layout_marginStart="@dimen/_16sdp" android:layout_marginEnd="@dimen/_16sdp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+                <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/sd_button_negative" android:background="@drawable/dialog_second_btn_bg" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/_8sdp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toEndOf="@+id/sd_button_positive" app:layout_constraintTop_toTopOf="parent">
+                    <TextView android:textSize="@dimen/_12sdp" android:textColor="#FFFFFF" android:id="@+id/sd_button_negative_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/_6sdp" android:layout_marginBottom="@dimen/_6sdp" android:text="Отмена" android:maxLines="1" android:lines="1" android:singleLine="true" android:fontFamily="@font/akrobat_bold" android:layout_marginStart="@dimen/_16sdp" android:layout_marginEnd="@dimen/_16sdp" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

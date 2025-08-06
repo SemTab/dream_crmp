@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/server_background"
+    android:layout_width="@dimen/_220sdp"
+    android:layout_height="@dimen/_80sdp"
+    android:layout_marginRight="@dimen/_10sdp"
+    android:background="#2A2E33"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/brp_launcher_server_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_15sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="Cullinan"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintBottom_toTopOf="@+id/server_indicators"
+        app:layout_constraintEnd_toStartOf="@+id/brp_launcher_server_online"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <LinearLayout
+        android:id="@+id/server_indicators"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="@id/brp_launcher_server_title"
+        app:layout_constraintTop_toBottomOf="@id/brp_launcher_server_title"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+    <TextView
+        android:id="@+id/brp_launcher_server_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+            android:background="#1A1D21"
+        android:fontFamily="@font/akrobat_bold"
+        android:paddingHorizontal="@dimen/_5sdp"
+        android:paddingVertical="@dimen/_2sdp"
+        android:text="ТЕСТОВЫЙ"
+        android:textColor="#FFDA44"
+        android:textSize="@dimen/_8sdp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/brp_launcher_server_maintenance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:background="#FF4444"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text="ТЕХНИЧЕСКИЕ РАБОТЫ"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_8sdp"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/brp_launcher_server_shipping"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:background="#1A73E8"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text="АКЦИЯ"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_8sdp"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/brp_launcher_server_double"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:background="#1A73E8"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:paddingVertical="@dimen/_2sdp"
+            android:text="X2"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_8sdp"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/brp_launcher_server_online"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/_15sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="0"
+        android:textColor="#6BFF73"
+        android:textSize="@dimen/_16sdp"
+        app:layout_constraintBottom_toTopOf="@+id/textView5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="/1000"
+        android:textColor="#80FFFFFF"
+        android:textSize="@dimen/_12sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/brp_launcher_server_online"
+        app:layout_constraintTop_toBottomOf="@+id/brp_launcher_server_online" />
+</androidx.constraintlayout.widget.ConstraintLayout>

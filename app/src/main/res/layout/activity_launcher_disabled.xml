@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212529">
+
+    <View
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_70sdp"
+        android:background="#1A1D21"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/launcher_disabled_logo"
+        android:layout_width="@dimen/_48sdp"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_marginStart="@dimen/_130sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:src="@drawable/logo_no_map"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/launcher_disabled_title"
+        android:layout_width="0dp" 
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:text="ЛАУНЧЕР НЕДОСТУПЕН" 
+        android:textColor="#FF5555"
+        android:textSize="@dimen/_20sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent" 
+        app:layout_constraintStart_toStartOf="parent" 
+        app:layout_constraintTop_toBottomOf="@id/topBar" />
+
+    <TextView 
+        android:id="@+id/launcher_disabled_subtitle" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/_4sdp" 
+        android:text="Временно недоступно" 
+        android:textColor="#80FFFFFF"
+        android:textSize="@dimen/_12sdp"
+        android:fontFamily="@font/montserrat_regular" 
+        app:layout_constraintEnd_toEndOf="parent" 
+        app:layout_constraintStart_toStartOf="parent" 
+        app:layout_constraintTop_toBottomOf="@id/launcher_disabled_title" />
+
+    <LinearLayout
+        android:id="@+id/messageCard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_32sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp"
+        app:layout_constraintTop_toBottomOf="@id/launcher_disabled_subtitle">
+
+        <TextView 
+            android:textSize="@dimen/_16sdp" 
+            android:textColor="#FFFFFF" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Информация" 
+            android:fontFamily="@font/akrobat_bold" />
+
+        <TextView
+            android:id="@+id/launcher_disabled_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:textColor="#E8E8E8"
+            android:textSize="@dimen/_14sdp"
+            android:fontFamily="@font/montserrat_regular"
+            android:minHeight="@dimen/_100sdp"
+            android:text="Сообщение о причине отключения будет отображено здесь." />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_24sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:background="#2A2E33"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp"
+        app:layout_constraintTop_toBottomOf="@id/messageCard">
+
+        <TextView 
+            android:textSize="@dimen/_16sdp" 
+            android:textColor="#FFFFFF" 
+            android:gravity="center_horizontal" 
+            android:layout_width="match_parent" 
+            android:layout_height="wrap_content" 
+            android:text="Следите за новостями" 
+            android:fontFamily="@font/akrobat_bold" />
+            
+        <LinearLayout 
+            android:layout_gravity="center" 
+            android:orientation="horizontal"  
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="@dimen/_10sdp">
+            
+            <ImageView 
+                android:id="@+id/imageViewTelegram"
+                android:layout_width="@dimen/_52sdp" 
+                android:layout_height="@dimen/_52sdp" 
+                android:src="@drawable/ic_telegram"
+                android:padding="@dimen/_5sdp"
+                android:layout_marginStart="@dimen/_10sdp" />
+                
+            <ImageView 
+                android:id="@+id/imageViewVK" 
+                android:layout_width="@dimen/_52sdp" 
+                android:layout_height="@dimen/_52sdp" 
+                android:src="@drawable/ic_vk"
+                android:padding="@dimen/_5sdp"
+                android:layout_marginStart="@dimen/_10sdp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button 
+        android:id="@+id/launcher_disabled_exit_button" 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:layout_marginHorizontal="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_24sdp"
+        android:background="#FF3333"
+        android:text="ВЫЙТИ"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_18sdp"
+        android:fontFamily="@font/akrobat_bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout> 

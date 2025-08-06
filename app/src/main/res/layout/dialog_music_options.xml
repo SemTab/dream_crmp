@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_music_options_bg"
+    android:padding="@dimen/_16sdp">
+
+    <TextView
+        android:id="@+id/dialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Настройки трека"
+        android:textSize="@dimen/_16sdp"
+        android:textColor="#FFFFFF"
+        android:fontFamily="@font/akrobat_bold"
+        android:layout_marginBottom="@dimen/_16sdp"/>
+
+    <LinearLayout
+        android:id="@+id/playNowOption"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_48sdp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/dialog_music_option_item_bg"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:padding="@dimen/_8sdp">
+
+        <ImageView
+            android:layout_width="@dimen/_32sdp"
+            android:layout_height="@dimen/_32sdp"
+            android:src="@drawable/ic_play_music"
+            android:padding="@dimen/_8sdp"
+            android:background="#1F232A"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Воспроизвести"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_14sdp"
+            android:fontFamily="@font/akrobat_bold"
+            android:layout_marginStart="@dimen/_10sdp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/addToQueueOption"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_48sdp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/dialog_music_option_item_bg"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:padding="@dimen/_8sdp">
+
+        <ImageView
+            android:layout_width="@dimen/_32sdp"
+            android:layout_height="@dimen/_32sdp"
+            android:src="@drawable/ic_queue_music"
+            android:padding="@dimen/_8sdp"
+            android:background="#1F232A"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Добавить в очередь"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_14sdp"
+            android:fontFamily="@font/akrobat_bold"
+            android:layout_marginStart="@dimen/_10sdp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/deleteTrackOption"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_48sdp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/dialog_music_option_item_bg"
+        android:padding="@dimen/_8sdp">
+
+        <ImageView
+            android:layout_width="@dimen/_32sdp"
+            android:layout_height="@dimen/_32sdp"
+            android:src="@drawable/ic_delete"
+            android:padding="@dimen/_8sdp"
+            android:background="#1F232A"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Удалить"
+            android:textColor="#FF5252"
+            android:textSize="@dimen/_14sdp"
+            android:fontFamily="@font/akrobat_bold"
+            android:layout_marginStart="@dimen/_10sdp"/>
+    </LinearLayout>
+</LinearLayout> 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827019983624",
+    "project_id": "dreamcr-70d7a",
+    "storage_bucket": "dreamcr-70d7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827019983624:android:ea717d784d9662d00b8abd",
+        "android_client_info": {
+          "package_name": "com.dmob.cr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-4-xS96W7VFRH_lBDQGN8aZcNFvUaas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

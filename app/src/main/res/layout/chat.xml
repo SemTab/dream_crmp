@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@id/chat" android:layout_width="fill_parent" android:layout_height="@dimen/_88sdp" android:layout_marginTop="@dimen/_7sdp" android:layout_marginStart="@dimen/_110sdp" android:layout_marginEnd="@dimen/_128sdp">
+
+	<ImageView
+		android:id="@id/msg_box"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginEnd="@dimen/_14sdp"
+		android:scaleType="fitXY"
+		android:visibility="visible"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent"
+		app:srcCompat="@drawable/ic_chat_bg_active" />
+
+	<com.dmob.cr.gui.util.CustomRecyclerView
+		android:id="@id/msg_messages"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginStart="@dimen/_3sdp"
+		android:layout_marginTop="@dimen/_3sdp"
+		android:layout_marginBottom="@dimen/_3sdp"
+		android:fadeScrollbars="false"
+		android:scrollbarAlwaysDrawVerticalTrack="true"
+		android:scrollbarSize="@dimen/_9sdp"
+		android:scrollbarThumbVertical="@drawable/ic_chat_scrollbar_thumb"
+		android:scrollbarTrackVertical="@drawable/ic_chat_scrollbar_track"
+		android:scrollbars="vertical"
+		android:verticalScrollbarPosition="right"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+</FrameLayout>

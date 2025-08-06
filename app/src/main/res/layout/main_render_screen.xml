@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_fl_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom">
+
+    <SurfaceView
+        android:id="@+id/main_sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|left"
+        android:layout_weight="0.7">
+
+        <ImageView
+            android:id="@+id/rpc_gps"
+            android:layout_width="73dp"
+            android:layout_height="69dp"
+            android:visibility="gone"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/rpc_gps" />
+
+        <ImageView
+            android:id="@+id/rpc_greenzone"
+            android:layout_width="66dp"
+            android:layout_height="69dp"
+            android:visibility="invisible"
+            app:layout_constraintStart_toEndOf="@+id/rpc_gps"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/rpc_greenzone" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <FrameLayout
+        android:id="@+id/ui_layout"
+        android:visibility="visible"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/main_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="#212529"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/_16sdp"
+            android:paddingRight="@dimen/_16sdp"
+            android:paddingTop="@dimen/_8sdp"
+            android:paddingBottom="@dimen/_8sdp">
+
+            <com.nvidia.devtech.CustomEditText
+                android:id="@+id/main_et_input"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_marginRight="@dimen/_12sdp"
+                android:layout_weight="0.7"
+                android:background="#2A2E33"
+                android:ems="10"
+                android:paddingLeft="@dimen/_12sdp"
+                android:paddingRight="@dimen/_12sdp"
+                android:imeOptions="actionDone|flagNoExtractUi|flagNoFullscreen"
+                android:inputType="text"
+                android:singleLine="true"
+                android:textSize="@dimen/_14sdp"
+                android:textColor="#FFFFFF"
+                android:fontFamily="@font/montserrat_regular" />
+
+            <Button
+                android:id="@+id/main_but_input_prev"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_weight="0.1"
+                android:layout_marginEnd="@dimen/_8sdp"
+                android:gravity="center"
+                android:background="@drawable/music_player_button_bg"
+                android:text="&#x22C1;"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/main_but_input_next"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_weight="0.1"
+                android:layout_marginEnd="@dimen/_8sdp"
+                android:gravity="center"
+                android:background="@drawable/music_player_button_bg"
+                android:text="&#x22C0;"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF" />
+
+            <Button
+                android:id="@+id/main_but_input_slash"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_weight="0.1"
+                android:gravity="center"
+                android:background="@drawable/music_player_button_bg"
+                android:text="/"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+            
+        <View android:id="@+id/dark_screen" android:background="#ff000000" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+
+        <include layout="@layout/bhud_layout" />
+
+        <include layout="@layout/chat"/>
+
+        <include
+            layout="@layout/keyboard"
+            android:visibility="gone" />
+
+        <include layout="@layout/bspeed_layout"/>
+        <include layout="@layout/hassle_speed_menu"/>
+
+        <include layout="@layout/sd_dialog" />
+        <include layout="@layout/hassle_tab" />
+        <include layout="@layout/brp_azs" />
+        <include layout="@layout/brp_numbers" />
+        <include layout="@layout/bloading_screen" />
+        <include layout="@layout/brp_welcome" />
+        <include layout="@layout/brp_spawn_selector" />
+        <include layout="@layout/bcaptcha_layout" />
+        <include layout="@layout/br_notification" />
+        <include layout="@layout/ingame_server_selector" />
+
+        <FrameLayout
+            android:id="@+id/music_player_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:visibility="gone">
+        <include layout="@layout/music_player" />
+        </FrameLayout>
+
+        <include layout="@layout/actions_menu" />
+
+    </FrameLayout>
+</FrameLayout>

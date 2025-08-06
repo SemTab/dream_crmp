@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout 
+    android:background="#212529" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="@dimen/_160sdp"
+        android:layout_height="@dimen/_160sdp"
+        android:layout_marginTop="@dimen/_50sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo_no_map" />
+        
+    <View
+        android:id="@+id/logoGlowPreLoad"
+        android:layout_width="@dimen/_170sdp"
+        android:layout_height="@dimen/_170sdp"
+        android:background="@drawable/circle_glow"
+        android:alpha="0.3"
+        app:layout_constraintEnd_toEndOf="@+id/imageView11"
+        app:layout_constraintStart_toStartOf="@+id/imageView11"
+        app:layout_constraintTop_toTopOf="@+id/imageView11"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView11" />
+        
+    <TextView 
+        android:textSize="@dimen/_22sdp" 
+        android:textColor="#FFFFFF" 
+        android:id="@+id/textView19" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/_20sdp" 
+        android:text="ЗАГРУЗКА ИГРЫ" 
+        android:fontFamily="@font/akrobat_bold" 
+        app:layout_constraintEnd_toEndOf="@id/imageView11" 
+        app:layout_constraintStart_toStartOf="@id/imageView11" 
+        app:layout_constraintTop_toBottomOf="@id/imageView11" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="@dimen/_240sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:fontFamily="@font/akrobat_bold"
+        android:gravity="center"
+        android:text="Не закрывайте и не сворачивайте данное приложение, загрузка может остановиться"
+        android:textColor="#80FFFFFF"
+        android:textSize="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="@id/textView19"
+        app:layout_constraintStart_toStartOf="@id/textView19"
+        app:layout_constraintTop_toBottomOf="@id/textView19" />
+        
+    <LinearLayout
+        android:id="@+id/imageView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:background="#2A2E33"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView20">
+            
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/akrobat_bold"
+            android:gravity="center"
+            android:text="Для старта загрузки файлов подтвердите загрузку."
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_14sdp" />
+                
+        <Button 
+            android:textSize="@dimen/_14sdp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/brp_launcher_pre_load_download"
+            android:background="#1A73E8"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_45sdp"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:text="Загрузить"
+            android:textAllCaps="false"
+            android:fontFamily="@font/akrobat_bold" />
+                
+        <Button 
+            android:textSize="@dimen/_14sdp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/brp_launcher_pre_load_faq"
+            android:background="#343A40"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_45sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="FAQ"
+            android:textAllCaps="false"
+            android:fontFamily="@font/akrobat_bold" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

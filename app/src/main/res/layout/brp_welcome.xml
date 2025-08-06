@@ -1,0 +1,62 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/brp_welcome_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC212529">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/dialog_bg"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/brp_welcome_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="ДОБРО ПОЖАЛОВАТЬ НА СЕРВЕР"
+        android:textAllCaps="true"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_22sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.144"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.341" />
+
+    <TextView
+        android:id="@+id/brp_welcome_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="Проект, на котором тебя ждут море положительных эмоций, ответственная администрация и куча всего другого!"
+        android:textAllCaps="false"
+        android:textColor="#6C757D"
+        android:textSize="@dimen/_11sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/brp_welcome_title"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toStartOf="@+id/brp_welcome_title"
+        app:layout_constraintTop_toBottomOf="@+id/brp_welcome_title"
+        app:layout_constraintVertical_bias="0" />
+
+    <Button
+        android:id="@+id/brp_welcome_btn"
+        android:layout_width="@dimen/_139sdp"
+        android:layout_height="@dimen/_36sdp"
+        android:background="#1A73E8"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="Продолжить"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_10sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/brp_welcome_desc"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toStartOf="@+id/brp_welcome_desc"
+        app:layout_constraintTop_toBottomOf="@+id/brp_welcome_desc"
+        app:layout_constraintVertical_bias="0.2" />
+</androidx.constraintlayout.widget.ConstraintLayout>

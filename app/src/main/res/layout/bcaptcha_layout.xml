@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/brp_captcha_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CC212529"
+    android:visibility="visible">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/captcha_container"
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="wrap_content"
+        android:background="#1A1D21"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/captcha_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#2A2E33"
+            android:drawableLeft="@drawable/ic_baseline_notifications_24"
+            android:drawablePadding="@dimen/_5sdp"
+            android:fontFamily="@font/akrobat_bold"
+            android:gravity="center_vertical"
+            android:padding="@dimen/_10sdp"
+            android:text="Проверка безопасности"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_15sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/captcha_subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/akrobat_bold"
+            android:padding="@dimen/_10sdp"
+            android:text="Введите символы с изображения для подтверждения, что вы не робот"
+            android:textColor="#6C757D"
+            android:textSize="@dimen/_10sdp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/captcha_title" />
+
+        <com.dmob.cr.gui.antibot.Captcha
+            android:id="@+id/brp_captcha_main_view"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_70sdp"
+            android:layout_marginHorizontal="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="#2A2E33"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/captcha_subtitle" />
+
+        <LinearLayout
+            android:id="@+id/captcha_input_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_10sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/brp_captcha_main_view">
+
+            <com.nvidia.devtech.CustomEditText
+                android:id="@+id/brp_captcha_code_et"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_weight="1"
+                android:background="#2A2E33"
+                android:fontFamily="@font/akrobat_bold"
+                android:gravity="center"
+                android:hint="Введите код сюда"
+                android:imeOptions="actionDone|flagNoExtractUi|flagNoFullscreen"
+                android:inputType="textShortMessage"
+                android:lines="1"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textColorHint="#4DFFFFFF"
+                android:textSize="@dimen/_15sdp" />
+
+            <Button
+                android:id="@+id/brp_captcha_complete_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/_10sdp"
+                android:background="#1A73E8"
+                android:fontFamily="@font/akrobat_bold"
+                android:paddingHorizontal="@dimen/_15sdp"
+                android:text="Подтвердить"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_15sdp" />
+
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

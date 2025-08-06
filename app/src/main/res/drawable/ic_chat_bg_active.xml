@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="231.0dip" android:width="927.0dip" android:viewportWidth="927.0" android:viewportHeight="231.0">
+	<path android:fillColor="@drawable/ic_chat_bg_active__0" android:pathData="M10,0L917,0A10,10 0,0 1,927 10L927,221A10,10 0,0 1,917 231L10,231A10,10 0,0 1,0 221L0,10A10,10 0,0 1,10 0z" />
+</vector>

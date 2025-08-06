@@ -1,0 +1,134 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.google.gms.google-services'
+
+configurations.all {
+    resolutionStrategy.dependencySubstitution {
+        substitute module('org.hamcrest:hamcrest-core:1.1') with module('junit:junit:4.10')
+    }
+}
+
+android {
+    signingConfigs {
+        debug {
+            storeFile file('/src/main/key/fuss.jks')
+            storePassword '123123'
+            keyAlias 'key0'
+            keyPassword '123123'
+        }
+        release {
+            storeFile file('/src/main/key/fuss.jks')
+            storePassword '123123'
+            keyAlias 'key0'
+            keyPassword '123123'
+        }
+    }
+    compileSdkVersion 34
+
+    compileOptions {
+        sourceCompatibility 1.8
+        targetCompatibility 1.8
+    }
+
+    ndkVersion '17.2.4988734'
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    packagingOptions {
+        pickFirst 'lib/armeabi-v7a/libsamp.so'
+    }
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 28
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        applicationId 'com.dmob.cr'
+        versionName '2.4.3'
+        versionCode 243
+
+        vectorDrawables.useSupportLibrary = true
+        multiDexEnabled = true
+
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
+        signingConfig signingConfigs.release
+    }
+
+    //externalNativeBuild {
+    //    ndkBuild {
+    //        path file('src/main/cpp/jni/Android.mk')
+    //    }
+    //}
+
+    applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            outputFileName = "launcher.apk"
+        }
+    }
+
+    // если вы разработчик, делайте в дебаге, но апк другим не давайте
+    // если нет, всегда используйте release (чтобы код не украли)
+    // делается это через Build->Select Build Variant...->Active Build Variant->release
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles(getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro")
+
+            buildConfigField "String", "API", "\"1baf31ef6d4e32fa6859f49a70852b97\""
+            buildConfigField "String", "AUTHOR", "\"DB\""
+            buildConfigField "String", "APPVERSION", "\"security-release\""
+        }
+        debug {
+            buildConfigField "String", "API", "\"0b4c61bd1dc1db361917fd03b9a6d53e\""
+            buildConfigField "String", "AUTHOR", "\"DB\""
+            buildConfigField "String", "APPVERSION", "\"nosecurity-debug-test\""
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'com.google.android.material:material:1.0.0-alpha3'
+    implementation 'com.tuyenmonkey:mkloader:1.4.0'
+    implementation group: 'org.ini4j', name: 'ini4j', version: '0.5.4'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.github.skydoves:ColorPickerView:2.2.3'
+    implementation 'com.github.egslava:edittext-mask:1.0.7'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.github.Triggertrap:SeekArc:v1.1'
+    implementation 'com.akexorcist:round-corner-progress-bar:2.1.2'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'com.github.bumptech.glide:glide:4.13.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
+    implementation 'com.github.amitshekhariitbhu:PRDownloader:1.0.2'
+    implementation 'com.github.hzy3774:AndroidP7zip:v1.7.2'
+    implementation 'com.github.hzy3774:AndroidUn7zip:v1.6.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:4.9.0'
+    implementation 'com.github.smarteist:Android-Image-Slider:1.4.0'
+    implementation 'com.liulishuo.filedownloader:library:1.7.7'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.github.GrenderG:Toasty:1.5.2'
+    implementation 'com.google.firebase:firebase-messaging:21.1.0'
+    implementation platform('com.google.firebase:firebase-bom:33.7.0')
+    implementation 'com.google.firebase:firebase-analytics'
+    implementation 'com.google.firebase:firebase-config:21.0.2'
+    implementation 'com.google.firebase:firebase-database:20.0.4'
+    implementation 'net.lingala.zip4j:zip4j:2.11.5'
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    implementation 'com.github.valkriaine:Bouncy:2.3'
+    implementation "androidx.viewpager2:viewpager2:1.0.0"
+    // implementation 'com.github.google.volley:volley:1.2.1'
+    // implementation 'com.google.code.gson:gson:2.9.0'
+    implementation 'com.github.fangyidong:json-simple:tag_release_1_1_1'
+    // androidTestImplementation 'org.hamcrest:hamcrest-core:1.1'
+}
+

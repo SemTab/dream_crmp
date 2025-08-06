@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/speedometerMenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#80000000"
+    android:visibility="visible">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/speed_main_container"
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="@dimen/_200sdp"
+        android:background="@drawable/radial_menu_bg"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/sp_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/akrobat_bold"
+            android:paddingStart="@dimen/_12sdp"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingEnd="@dimen/_12sdp"
+            android:paddingBottom="@dimen/_6sdp"
+            android:text="Управление автомобилем"
+            android:textColor="#FFFFFF"
+            android:textSize="@dimen/_8sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.08" />
+
+        <!-- Центральная кнопка -->
+        <LinearLayout
+            android:id="@+id/sp_center_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_center_button"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.55">
+
+            <ImageView
+                android:layout_width="@dimen/_20sdp"
+                android:layout_height="@dimen/_20sdp"
+                android:src="@drawable/sp_engine_icon"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Меню"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+        <!-- Двигатель (Верх) -->
+        <LinearLayout
+            android:id="@+id/sp_engine_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_menu_item"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintCircle="@id/sp_center_container"
+            app:layout_constraintCircleAngle="270"
+            app:layout_constraintCircleRadius="@dimen/_60sdp">
+
+            <ImageView
+                android:id="@+id/sp_engine_icon"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:src="@drawable/sp_engine_icon"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/sp_engine_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Двигатель"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+        <!-- Парковка (Верх-Право) -->
+        <LinearLayout
+            android:id="@+id/sp_parking_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_menu_item"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintCircle="@id/sp_center_container"
+            app:layout_constraintCircleAngle="330"
+            app:layout_constraintCircleRadius="@dimen/_60sdp">
+
+            <ImageView
+                android:id="@+id/sp_parking_icon"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:src="@drawable/sp_parking_icon_on"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/sp_parking_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Парковка"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+        <!-- Замки (Право) -->
+        <LinearLayout
+            android:id="@+id/sp_lock_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_menu_item"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintCircle="@id/sp_center_container"
+            app:layout_constraintCircleAngle="30"
+            app:layout_constraintCircleRadius="@dimen/_60sdp">
+
+            <ImageView
+                android:id="@+id/sp_lock_icon"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:src="@drawable/sp_lock_icon"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/sp_lock_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Замки"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+        <!-- Фары (Низ-Право) -->
+        <LinearLayout
+            android:id="@+id/sp_light_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_menu_item"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintCircle="@id/sp_center_container"
+            app:layout_constraintCircleAngle="90"
+            app:layout_constraintCircleRadius="@dimen/_60sdp">
+
+            <ImageView
+                android:id="@+id/sp_light_icon"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:src="@drawable/sp_light_icon"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/sp_light_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Фары"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+        <!-- Неон (Низ) -->
+        <LinearLayout
+            android:id="@+id/sp_neon_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_menu_item"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintCircle="@id/sp_center_container"
+            app:layout_constraintCircleAngle="150"
+            app:layout_constraintCircleRadius="@dimen/_60sdp">
+
+            <ImageView
+                android:id="@+id/sp_neon_icon"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:src="@drawable/sp_neon_icon_grey"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/sp_neon_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Неон"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+        <!-- Стробоскоп (Низ-Лево) -->
+        <LinearLayout
+            android:id="@+id/sp_stroboscope_container"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:background="@drawable/radial_menu_item"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintCircle="@id/sp_center_container"
+            app:layout_constraintCircleAngle="210"
+            app:layout_constraintCircleRadius="@dimen/_60sdp">
+
+            <ImageView
+                android:id="@+id/sp_stroboscope_icon"
+                android:layout_width="@dimen/_16sdp"
+                android:layout_height="@dimen/_16sdp"
+                android:src="@drawable/sp_stroboscope_icon_grey"
+                android:tint="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/sp_stroboscope_text_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:fontFamily="@font/akrobat_bold"
+                android:text="Стробоскоп"
+                android:textColor="#FFFFFF"
+                android:textSize="@dimen/_8sdp" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+        android:id="@+id/sp_close_button"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="#1A73E8"
+        android:fontFamily="@font/akrobat_bold"
+        android:text="Закрыть"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/_14sdp"
+        app:layout_constraintEnd_toEndOf="@+id/speed_main_container"
+        app:layout_constraintStart_toStartOf="@+id/speed_main_container"
+        app:layout_constraintTop_toBottomOf="@+id/speed_main_container" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

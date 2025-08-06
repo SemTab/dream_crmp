@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="fill_parent" android:layout_height="wrap_content">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@id/chat_msg"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/chat_background"
+		android:padding="@dimen/_2sdp">
+
+		<androidx.constraintlayout.widget.ConstraintLayout
+			android:id="@id/msg_type_rect"
+			android:layout_width="@dimen/_7sdp"
+			android:layout_height="@dimen/_7sdp"
+			android:background="@drawable/ic_chat_message_bg"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent">
+
+			<TextView
+				android:id="@id/msg_type"
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:fontFamily="@font/akrobat_bold"
+				android:gravity="center"
+				android:shadowColor="#ff000000"
+				android:shadowDx="1.0"
+				android:shadowDy="1.0"
+				android:shadowRadius="1.0"
+				android:text="@string/chat_t"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_4sdp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent" />
+
+			<TextView
+				android:id="@id/msg_type2"
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:fontFamily="@font/akrobat_bold"
+				android:gravity="center"
+				android:shadowColor="#ff000000"
+				android:shadowDx="-1.0"
+				android:shadowDy="-1.0"
+				android:shadowRadius="1.0"
+				android:text="@string/chat_t"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_4sdp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent" />
+
+			<TextView
+				android:id="@id/msg_type3"
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:fontFamily="@font/akrobat_bold"
+				android:gravity="center"
+				android:shadowColor="#ff000000"
+				android:shadowDx="1.0"
+				android:shadowDy="-1.0"
+				android:shadowRadius="1.0"
+				android:text="@string/chat_t"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_4sdp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent" />
+
+			<TextView
+				android:id="@id/msg_type4"
+				android:layout_width="0.0dip"
+				android:layout_height="0.0dip"
+				android:fontFamily="@font/akrobat_bold"
+				android:gravity="center"
+				android:shadowColor="#ff000000"
+				android:shadowDx="-1.0"
+				android:shadowDy="1.0"
+				android:shadowRadius="1.0"
+				android:text="@string/chat_t"
+				android:textColor="#ffffffff"
+				android:textSize="@dimen/_4sdp"
+				app:layout_constraintBottom_toBottomOf="parent"
+				app:layout_constraintEnd_toEndOf="parent"
+				app:layout_constraintStart_toStartOf="parent"
+				app:layout_constraintTop_toTopOf="parent" />
+		</androidx.constraintlayout.widget.ConstraintLayout>
+
+		<View
+			android:id="@id/msg_divider"
+			android:layout_width="@dimen/_1sdp"
+			android:layout_height="0.0dip"
+			android:layout_marginStart="@dimen/_2sdp"
+			android:layout_marginTop="@dimen/_2sdp"
+			android:layout_marginBottom="@dimen/_2sdp"
+			android:background="#ffffffff"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toEndOf="@id/msg_type_rect"
+			app:layout_constraintTop_toTopOf="parent"
+			app:layout_constraintVertical_bias="0.0" />
+
+		<TextView
+			android:id="@id/msg_text"
+			android:layout_width="0.0dip"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="@dimen/_2sdp"
+			android:layout_marginEnd="@dimen/_12sdp"
+			android:fontFamily="@font/akrobat_bold"
+			android:includeFontPadding="false"
+			android:shadowColor="#ff000000"
+			android:shadowDx="1.0"
+			android:shadowDy="1.0"
+			android:shadowRadius="1.0"
+			android:text="@string/chat_connected_to"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_8sdp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toEndOf="@id/msg_divider"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<TextView
+			android:id="@id/msg_text2"
+			android:layout_width="0.0dip"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="@dimen/_2sdp"
+			android:layout_marginEnd="@dimen/_12sdp"
+			android:fontFamily="@font/akrobat_bold"
+			android:includeFontPadding="false"
+			android:shadowColor="#ff000000"
+			android:shadowDx="-1.0"
+			android:shadowDy="-1.0"
+			android:shadowRadius="1.0"
+			android:text="@string/chat_connected_to"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_8sdp"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toEndOf="@id/msg_divider"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<TextView
+			android:id="@id/msg_text3"
+			android:layout_width="0.0dip"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="@dimen/_2sdp"
+			android:layout_marginEnd="@dimen/_12sdp"
+			android:fontFamily="@font/akrobat_bold"
+			android:includeFontPadding="false"
+			android:shadowColor="#ff000000"
+			android:shadowDx="1.0"
+			android:shadowDy="-1.0"
+			android:shadowRadius="1.0"
+			android:text="@string/chat_connected_to"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_8sdp"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toEndOf="@id/msg_divider"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<TextView
+			android:id="@id/msg_text4"
+			android:layout_width="0.0dip"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="@dimen/_2sdp"
+			android:layout_marginEnd="@dimen/_12sdp"
+			android:fontFamily="@font/akrobat_bold"
+			android:includeFontPadding="false"
+			android:shadowColor="#ff000000"
+			android:shadowDx="-1.0"
+			android:shadowDy="1.0"
+			android:shadowRadius="1.0"
+			android:text="@string/chat_connected_to"
+			android:textColor="#ffffffff"
+			android:textSize="@dimen/_8sdp"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toEndOf="@id/msg_divider"
+			app:layout_constraintTop_toTopOf="parent" />
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

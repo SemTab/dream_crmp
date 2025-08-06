@@ -1,0 +1,1760 @@
+[
+    {
+        "date": "4",
+        "name": "launcher.apk",
+        "path": "",
+        "size": 42094761
+    },
+    {
+        "date": "5",
+        "name": "Adjustable.cfg",
+        "path": "",
+        "size": 426
+    },
+    {
+        "date": "6",
+        "name": "GTASAMP10.b",
+        "path": "",
+        "size": 130000
+    },
+    {
+        "date": "7",
+        "name": "gtasatelem.set",
+        "path": "",
+        "size": 392
+    },
+    {
+        "date": "8",
+        "name": "gta_sa.set",
+        "path": "",
+        "size": 159
+    },
+    {
+        "date": "9",
+        "name": "scache_small.txt",
+        "path": "",
+        "size": 1010
+    },
+    {
+        "date": "10",
+        "name": "scache_small_low.txt",
+        "path": "",
+        "size": 943
+    },
+    {
+        "date": "11",
+        "name": "stream.ini",
+        "path": "",
+        "size": 197
+    },
+    {
+        "date": "12",
+        "name": "anim.img",
+        "path": "anim/",
+        "size": 10942464
+    },
+    {
+        "date": "13",
+        "name": "cuts.img",
+        "path": "anim/",
+        "size": 16029696
+    },
+    {
+        "date": "14",
+        "name": "ped.ifp",
+        "path": "anim/",
+        "size": 1433248
+    },
+    {
+        "date": "15",
+        "name": "AudioEventHistory.txt",
+        "path": "audio/CONFIG/",
+        "size": 114056
+    },
+    {
+        "date": "16",
+        "name": "BankLkup.dat",
+        "path": "audio/CONFIG/",
+        "size": 8520
+    },
+    {
+        "date": "17",
+        "name": "BankSlot.dat",
+        "path": "audio/CONFIG/",
+        "size": 216902
+    },
+    {
+        "date": "18",
+        "name": "EventVol.dat",
+        "path": "audio/CONFIG/",
+        "size": 45402
+    },
+    {
+        "date": "19",
+        "name": "PakFiles.dat",
+        "path": "audio/CONFIG/",
+        "size": 468
+    },
+    {
+        "date": "20",
+        "name": "SOUNDINF.DAT",
+        "path": "audio/CONFIG/",
+        "size": 746760
+    },
+    {
+        "date": "21",
+        "name": "StrmPaks.dat",
+        "path": "audio/CONFIG/",
+        "size": 272
+    },
+    {
+        "date": "22",
+        "name": "TrakLkup.dat",
+        "path": "audio/CONFIG/",
+        "size": 23064
+    },
+    {
+        "date": "23",
+        "name": "TRKHEAD.DAT",
+        "path": "audio/CONFIG/",
+        "size": 15506696
+    },
+    {
+        "date": "24",
+        "name": "FEET.osw",
+        "path": "audio/SFX/",
+        "size": 138118
+    },
+    {
+        "date": "25",
+        "name": "FEET.osw.idx",
+        "path": "audio/SFX/",
+        "size": 1220
+    },
+    {
+        "date": "26",
+        "name": "GENRL.osw",
+        "path": "audio/SFX/",
+        "size": 9362373
+    },
+    {
+        "date": "27",
+        "name": "GENRL.osw.idx",
+        "path": "audio/SFX/",
+        "size": 20868
+    },
+    {
+        "date": "28",
+        "name": "PAIN_A.osw",
+        "path": "audio/SFX/",
+        "size": 3247335
+    },
+    {
+        "date": "29",
+        "name": "PAIN_A.osw.idx",
+        "path": "audio/SFX/",
+        "size": 12836
+    },
+    {
+        "date": "30",
+        "name": "AA.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "31",
+        "name": "AA.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 1522
+    },
+    {
+        "date": "32",
+        "name": "ADVERTS.osw",
+        "path": "audio/STREAMS/",
+        "size": 3516982
+    },
+    {
+        "date": "33",
+        "name": "ADVERTS.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 1591
+    },
+    {
+        "date": "34",
+        "name": "AMBIENCE.osw",
+        "path": "audio/STREAMS/",
+        "size": 22719112
+    },
+    {
+        "date": "35",
+        "name": "AMBIENCE.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 924
+    },
+    {
+        "date": "36",
+        "name": "BEATS.osw",
+        "path": "audio/STREAMS/",
+        "size": 9415375
+    },
+    {
+        "date": "37",
+        "name": "BEATS.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 234
+    },
+    {
+        "date": "38",
+        "name": "CH.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "39",
+        "name": "CH.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 2994
+    },
+    {
+        "date": "40",
+        "name": "CO.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "41",
+        "name": "CO.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3569
+    },
+    {
+        "date": "42",
+        "name": "CR.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "43",
+        "name": "CR.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3592
+    },
+    {
+        "date": "44",
+        "name": "CUTSCENE.osw",
+        "path": "audio/STREAMS/",
+        "size": 301175
+    },
+    {
+        "date": "45",
+        "name": "CUTSCENE.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3247
+    },
+    {
+        "date": "46",
+        "name": "DS.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "47",
+        "name": "DS.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 4121
+    },
+    {
+        "date": "48",
+        "name": "HC.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "49",
+        "name": "HC.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 2649
+    },
+    {
+        "date": "50",
+        "name": "MH.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "51",
+        "name": "MH.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3500
+    },
+    {
+        "date": "52",
+        "name": "MR.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "53",
+        "name": "MR.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3385
+    },
+    {
+        "date": "54",
+        "name": "NJ.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "55",
+        "name": "NJ.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 2994
+    },
+    {
+        "date": "56",
+        "name": "RE.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "57",
+        "name": "RE.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3707
+    },
+    {
+        "date": "58",
+        "name": "RG.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "59",
+        "name": "RG.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 3914
+    },
+    {
+        "date": "60",
+        "name": "TK.osw",
+        "path": "audio/STREAMS/",
+        "size": 15462
+    },
+    {
+        "date": "61",
+        "name": "TK.osw.idx",
+        "path": "audio/STREAMS/",
+        "size": 2327
+    },
+    {
+        "date": "62",
+        "name": "360Default1280x720.cfg",
+        "path": "data/",
+        "size": 10898
+    },
+    {
+        "date": "63",
+        "name": "360Default960x720.cfg",
+        "path": "data/",
+        "size": 10888
+    },
+    {
+        "date": "64",
+        "name": "animgrp.dat",
+        "path": "data/",
+        "size": 3096
+    },
+    {
+        "date": "65",
+        "name": "ar_stats.dat",
+        "path": "data/",
+        "size": 3593
+    },
+    {
+        "date": "66",
+        "name": "carcols.dat",
+        "path": "data/",
+        "size": 15361
+    },
+    {
+        "date": "67",
+        "name": "cargrp.dat",
+        "path": "data/",
+        "size": 3909
+    },
+    {
+        "date": "68",
+        "name": "carmods.dat",
+        "path": "data/",
+        "size": 8763
+    },
+    {
+        "date": "69",
+        "name": "clothes.dat",
+        "path": "data/",
+        "size": 5317
+    },
+    {
+        "date": "70",
+        "name": "colorcycle-1.dat",
+        "path": "data/",
+        "size": 14903
+    },
+    {
+        "date": "71",
+        "name": "colorcycle.dat",
+        "path": "data/",
+        "size": 13612
+    },
+    {
+        "date": "72",
+        "name": "default.dat",
+        "path": "data/",
+        "size": 577
+    },
+    {
+        "date": "73",
+        "name": "default.ide",
+        "path": "data/",
+        "size": 4679
+    },
+    {
+        "date": "74",
+        "name": "fonts.dat",
+        "path": "data/",
+        "size": 3576
+    },
+    {
+        "date": "75",
+        "name": "furnitur.dat",
+        "path": "data/",
+        "size": 16480
+    },
+    {
+        "date": "76",
+        "name": "gridref.dat",
+        "path": "data/",
+        "size": 1498
+    },
+    {
+        "date": "77",
+        "name": "gta.dat",
+        "path": "data/",
+        "size": 1215
+    },
+    {
+        "date": "78",
+        "name": "handling.cfg",
+        "path": "data/",
+        "size": 64532
+    },
+    {
+        "date": "79",
+        "name": "info.zon",
+        "path": "data/",
+        "size": 28139
+    },
+    {
+        "date": "80",
+        "name": "map.zon",
+        "path": "data/",
+        "size": 436
+    },
+    {
+        "date": "81",
+        "name": "melee.dat",
+        "path": "data/",
+        "size": 6306
+    },
+    {
+        "date": "82",
+        "name": "object.dat",
+        "path": "data/",
+        "size": 126788
+    },
+    {
+        "date": "83",
+        "name": "ped.dat",
+        "path": "data/",
+        "size": 1276
+    },
+    {
+        "date": "84",
+        "name": "pedgrp.dat",
+        "path": "data/",
+        "size": 5792
+    },
+    {
+        "date": "85",
+        "name": "peds.ide",
+        "path": "data/",
+        "size": 33401
+    },
+    {
+        "date": "86",
+        "name": "pedstats.dat",
+        "path": "data/",
+        "size": 3604
+    },
+    {
+        "date": "87",
+        "name": "plants.dat",
+        "path": "data/",
+        "size": 9887
+    },
+    {
+        "date": "88",
+        "name": "popcycle.dat",
+        "path": "data/",
+        "size": 127108
+    },
+    {
+        "date": "89",
+        "name": "procobj.dat",
+        "path": "data/",
+        "size": 10019
+    },
+    {
+        "date": "90",
+        "name": "shopping.dat",
+        "path": "data/",
+        "size": 46875
+    },
+    {
+        "date": "91",
+        "name": "ShopUVs.dat",
+        "path": "data/",
+        "size": 30509
+    },
+    {
+        "date": "92",
+        "name": "statdisp.dat",
+        "path": "data/",
+        "size": 7292
+    },
+    {
+        "date": "93",
+        "name": "surface.dat",
+        "path": "data/",
+        "size": 576
+    },
+    {
+        "date": "94",
+        "name": "surfaud.dat",
+        "path": "data/",
+        "size": 6530
+    },
+    {
+        "date": "95",
+        "name": "surfinfo.dat",
+        "path": "data/",
+        "size": 28106
+    },
+    {
+        "date": "96",
+        "name": "timecyc(1).dat",
+        "path": "data/",
+        "size": 38949
+    },
+    {
+        "date": "97",
+        "name": "timecyc.aaa",
+        "path": "data/",
+        "size": 38026
+    },
+    {
+        "date": "98",
+        "name": "timecyc.bak",
+        "path": "data/",
+        "size": 40347
+    },
+    {
+        "date": "99",
+        "name": "timecyc.cfg",
+        "path": "data/",
+        "size": 39751
+    },
+    {
+        "date": "100",
+        "name": "timecyc.dat",
+        "path": "data/",
+        "size": 40037
+    },
+    {
+        "date": "101",
+        "name": "timecyc.two",
+        "path": "data/",
+        "size": 40347
+    },
+    {
+        "date": "102",
+        "name": "timecyc1.aaa",
+        "path": "data/",
+        "size": 38826
+    },
+    {
+        "date": "103",
+        "name": "timecyc1.dat",
+        "path": "data/",
+        "size": 38826
+    },
+    {
+        "date": "104",
+        "name": "timecycp.dat",
+        "path": "data/",
+        "size": 40520
+    },
+    {
+        "date": "105",
+        "name": "timecycp1.dat",
+        "path": "data/",
+        "size": 40520
+    },
+    {
+        "date": "106",
+        "name": "TouchDefaultPhone3x2.cfg",
+        "path": "data/",
+        "size": 10912
+    },
+    {
+        "date": "107",
+        "name": "TouchDefaultPhoneWidescreen.cfg",
+        "path": "data/",
+        "size": 10924
+    },
+    {
+        "date": "108",
+        "name": "TouchDefaultTablet4x3.cfg",
+        "path": "data/",
+        "size": 10926
+    },
+    {
+        "date": "109",
+        "name": "TouchDefaultTabletWidescreen.cfg",
+        "path": "data/",
+        "size": 10923
+    },
+    {
+        "date": "110",
+        "name": "txdcut.ide",
+        "path": "data/",
+        "size": 478
+    },
+    {
+        "date": "111",
+        "name": "vehicles.ide",
+        "path": "data/",
+        "size": 21093
+    },
+    {
+        "date": "112",
+        "name": "water.dat",
+        "path": "data/",
+        "size": 41070
+    },
+    {
+        "date": "113",
+        "name": "water1.dat",
+        "path": "data/",
+        "size": 60063
+    },
+    {
+        "date": "114",
+        "name": "weapon.dat",
+        "path": "data/",
+        "size": 11602
+    },
+    {
+        "date": "115",
+        "name": "PedEvent.txt",
+        "path": "data/Decision/",
+        "size": 1298
+    },
+    {
+        "date": "116",
+        "name": "Cop.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 4908
+    },
+    {
+        "date": "117",
+        "name": "Fireman.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 4435
+    },
+    {
+        "date": "118",
+        "name": "GangMbr.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 6194
+    },
+    {
+        "date": "119",
+        "name": "Indoors.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 2809
+    },
+    {
+        "date": "120",
+        "name": "MISSION.grp",
+        "path": "data/Decision/Allowed/",
+        "size": 2758
+    },
+    {
+        "date": "121",
+        "name": "m_empty.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 982
+    },
+    {
+        "date": "122",
+        "name": "m_norm.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 4142
+    },
+    {
+        "date": "123",
+        "name": "m_plyr.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 2000
+    },
+    {
+        "date": "124",
+        "name": "m_steal.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 3663
+    },
+    {
+        "date": "125",
+        "name": "m_tough.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 3980
+    },
+    {
+        "date": "126",
+        "name": "m_weak.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 4062
+    },
+    {
+        "date": "127",
+        "name": "RANDOM.grp",
+        "path": "data/Decision/Allowed/",
+        "size": 4623
+    },
+    {
+        "date": "128",
+        "name": "RANDOM.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 4142
+    },
+    {
+        "date": "129",
+        "name": "RANDOM2.grp",
+        "path": "data/Decision/Allowed/",
+        "size": 4623
+    },
+    {
+        "date": "130",
+        "name": "R_Norm.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 6450
+    },
+    {
+        "date": "131",
+        "name": "R_Tough.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 6378
+    },
+    {
+        "date": "132",
+        "name": "R_Weak.ped",
+        "path": "data/Decision/Allowed/",
+        "size": 6289
+    },
+    {
+        "date": "133",
+        "name": "asd.txt",
+        "path": "data/maps/",
+        "size": 1497
+    },
+    {
+        "date": "134",
+        "name": "Audiozon.ipl",
+        "path": "data/maps/",
+        "size": 10802
+    },
+    {
+        "date": "135",
+        "name": "CR1.ide",
+        "path": "data/maps/",
+        "size": 42532
+    },
+    {
+        "date": "136",
+        "name": "CR1.ipl",
+        "path": "data/maps/",
+        "size": 103174
+    },
+    {
+        "date": "137",
+        "name": "CR10.ide",
+        "path": "data/maps/",
+        "size": 480
+    },
+    {
+        "date": "138",
+        "name": "CR10.ipl",
+        "path": "data/maps/",
+        "size": 225292
+    },
+    {
+        "date": "139",
+        "name": "CR11.ide",
+        "path": "data/maps/",
+        "size": 86216
+    },
+    {
+        "date": "140",
+        "name": "CR11.ipl",
+        "path": "data/maps/",
+        "size": 229846
+    },
+    {
+        "date": "141",
+        "name": "CR12.ide",
+        "path": "data/maps/",
+        "size": 14703
+    },
+    {
+        "date": "142",
+        "name": "CR12.ipl",
+        "path": "data/maps/",
+        "size": 34075
+    },
+    {
+        "date": "143",
+        "name": "CR14.ide",
+        "path": "data/maps/",
+        "size": 267
+    },
+    {
+        "date": "144",
+        "name": "CR14.ipl",
+        "path": "data/maps/",
+        "size": 51160
+    },
+    {
+        "date": "145",
+        "name": "CR2.ide",
+        "path": "data/maps/",
+        "size": 22367
+    },
+    {
+        "date": "146",
+        "name": "CR2.ipl",
+        "path": "data/maps/",
+        "size": 67241
+    },
+    {
+        "date": "147",
+        "name": "CR3.ide",
+        "path": "data/maps/",
+        "size": 16485
+    },
+    {
+        "date": "148",
+        "name": "CR3.ipl",
+        "path": "data/maps/",
+        "size": 65305
+    },
+    {
+        "date": "149",
+        "name": "CR4.ide",
+        "path": "data/maps/",
+        "size": 13624
+    },
+    {
+        "date": "150",
+        "name": "CR4.ipl",
+        "path": "data/maps/",
+        "size": 25764
+    },
+    {
+        "date": "151",
+        "name": "CR5.ide",
+        "path": "data/maps/",
+        "size": 10147
+    },
+    {
+        "date": "152",
+        "name": "CR5.ipl",
+        "path": "data/maps/",
+        "size": 20472
+    },
+    {
+        "date": "153",
+        "name": "CR6.ide",
+        "path": "data/maps/",
+        "size": 3045
+    },
+    {
+        "date": "154",
+        "name": "CR6.ipl",
+        "path": "data/maps/",
+        "size": 50824
+    },
+    {
+        "date": "155",
+        "name": "CR7.ide",
+        "path": "data/maps/",
+        "size": 6481
+    },
+    {
+        "date": "156",
+        "name": "CR7.ipl",
+        "path": "data/maps/",
+        "size": 78818
+    },
+    {
+        "date": "157",
+        "name": "CR8.ide",
+        "path": "data/maps/",
+        "size": 62406
+    },
+    {
+        "date": "158",
+        "name": "CR8.ipl",
+        "path": "data/maps/",
+        "size": 233179
+    },
+    {
+        "date": "159",
+        "name": "CR9.ide",
+        "path": "data/maps/",
+        "size": 583
+    },
+    {
+        "date": "160",
+        "name": "CR9.ipl",
+        "path": "data/maps/",
+        "size": 325724
+    },
+    {
+        "date": "161",
+        "name": "cull.ipl",
+        "path": "data/maps/",
+        "size": 104318
+    },
+    {
+        "date": "162",
+        "name": "new 1.txt",
+        "path": "data/maps/",
+        "size": 0
+    },
+    {
+        "date": "163",
+        "name": "occlu.ipl",
+        "path": "data/maps/",
+        "size": 1012
+    },
+    {
+        "date": "164",
+        "name": "occluint.ipl",
+        "path": "data/maps/",
+        "size": 2338
+    },
+    {
+        "date": "165",
+        "name": "occluLA.ipl",
+        "path": "data/maps/",
+        "size": 35956
+    },
+    {
+        "date": "166",
+        "name": "occlusf.ipl",
+        "path": "data/maps/",
+        "size": 16114
+    },
+    {
+        "date": "167",
+        "name": "occluveg.ipl",
+        "path": "data/maps/",
+        "size": 17944
+    },
+    {
+        "date": "168",
+        "name": "paths.img",
+        "path": "data/maps/",
+        "size": 135168
+    },
+    {
+        "date": "169",
+        "name": "paths.ipl",
+        "path": "data/maps/",
+        "size": 2658607
+    },
+    {
+        "date": "170",
+        "name": "paths2.ipl",
+        "path": "data/maps/",
+        "size": 2292241
+    },
+    {
+        "date": "171",
+        "name": "paths3.ipl",
+        "path": "data/maps/",
+        "size": 2428066
+    },
+    {
+        "date": "172",
+        "name": "paths4.ipl",
+        "path": "data/maps/",
+        "size": 253014
+    },
+    {
+        "date": "173",
+        "name": "paths5.ipl",
+        "path": "data/maps/",
+        "size": 457678
+    },
+    {
+        "date": "174",
+        "name": "testbed.ide",
+        "path": "data/maps/",
+        "size": 54
+    },
+    {
+        "date": "175",
+        "name": "testbed.ipl",
+        "path": "data/maps/",
+        "size": 73
+    },
+    {
+        "date": "176",
+        "name": "tunnels.ipl",
+        "path": "data/maps/",
+        "size": 3230
+    },
+    {
+        "date": "177",
+        "name": "barriers.ide",
+        "path": "data/maps/generic/",
+        "size": 1437
+    },
+    {
+        "date": "178",
+        "name": "dynamic.ide",
+        "path": "data/maps/generic/",
+        "size": 4611
+    },
+    {
+        "date": "179",
+        "name": "dynamic2.ide",
+        "path": "data/maps/generic/",
+        "size": 10510
+    },
+    {
+        "date": "180",
+        "name": "multiobj.ide",
+        "path": "data/maps/generic/",
+        "size": 5020
+    },
+    {
+        "date": "181",
+        "name": "procobj.ide",
+        "path": "data/maps/generic/",
+        "size": 4755
+    },
+    {
+        "date": "182",
+        "name": "vegepart.ide",
+        "path": "data/maps/generic/",
+        "size": 8062
+    },
+    {
+        "date": "183",
+        "name": "gen_int1.ide",
+        "path": "data/maps/interior/",
+        "size": 2747
+    },
+    {
+        "date": "184",
+        "name": "gen_int1.ipl",
+        "path": "data/maps/interior/",
+        "size": 21074
+    },
+    {
+        "date": "185",
+        "name": "gen_int2.ide",
+        "path": "data/maps/interior/",
+        "size": 10941
+    },
+    {
+        "date": "186",
+        "name": "gen_int2.ipl",
+        "path": "data/maps/interior/",
+        "size": 1683
+    },
+    {
+        "date": "187",
+        "name": "gen_int3.ide",
+        "path": "data/maps/interior/",
+        "size": 3252
+    },
+    {
+        "date": "188",
+        "name": "gen_int3.ipl",
+        "path": "data/maps/interior/",
+        "size": 2091
+    },
+    {
+        "date": "189",
+        "name": "gen_int4.ide",
+        "path": "data/maps/interior/",
+        "size": 2323
+    },
+    {
+        "date": "190",
+        "name": "gen_int4.ipl",
+        "path": "data/maps/interior/",
+        "size": 1185
+    },
+    {
+        "date": "191",
+        "name": "gen_int5.ide",
+        "path": "data/maps/interior/",
+        "size": 4682
+    },
+    {
+        "date": "192",
+        "name": "gen_int5.ipl",
+        "path": "data/maps/interior/",
+        "size": 2988
+    },
+    {
+        "date": "193",
+        "name": "gen_intb.ide",
+        "path": "data/maps/interior/",
+        "size": 5459
+    },
+    {
+        "date": "194",
+        "name": "gen_intb.ipl",
+        "path": "data/maps/interior/",
+        "size": 1626
+    },
+    {
+        "date": "195",
+        "name": "int_cont.ide",
+        "path": "data/maps/interior/",
+        "size": 385
+    },
+    {
+        "date": "196",
+        "name": "int_cont.ipl",
+        "path": "data/maps/interior/",
+        "size": 910
+    },
+    {
+        "date": "197",
+        "name": "int_LA.ide",
+        "path": "data/maps/interior/",
+        "size": 6004
+    },
+    {
+        "date": "198",
+        "name": "int_LA.ipl",
+        "path": "data/maps/interior/",
+        "size": 1312
+    },
+    {
+        "date": "199",
+        "name": "int_SF.ide",
+        "path": "data/maps/interior/",
+        "size": 1260
+    },
+    {
+        "date": "200",
+        "name": "int_SF.ipl",
+        "path": "data/maps/interior/",
+        "size": 1334
+    },
+    {
+        "date": "201",
+        "name": "int_veg.ide",
+        "path": "data/maps/interior/",
+        "size": 4684
+    },
+    {
+        "date": "202",
+        "name": "int_veg.ipl",
+        "path": "data/maps/interior/",
+        "size": 5299
+    },
+    {
+        "date": "203",
+        "name": "propext.ide",
+        "path": "data/maps/interior/",
+        "size": 2340
+    },
+    {
+        "date": "204",
+        "name": "props.ide",
+        "path": "data/maps/interior/",
+        "size": 26326
+    },
+    {
+        "date": "205",
+        "name": "props2.ide",
+        "path": "data/maps/interior/",
+        "size": 21174
+    },
+    {
+        "date": "206",
+        "name": "savehous.ide",
+        "path": "data/maps/interior/",
+        "size": 1724
+    },
+    {
+        "date": "207",
+        "name": "savehous.ipl",
+        "path": "data/maps/interior/",
+        "size": 2959
+    },
+    {
+        "date": "208",
+        "name": "stadint.ide",
+        "path": "data/maps/interior/",
+        "size": 2851
+    },
+    {
+        "date": "209",
+        "name": "stadint.ipl",
+        "path": "data/maps/interior/",
+        "size": 6299
+    },
+    {
+        "date": "210",
+        "name": "leveldes.ide",
+        "path": "data/maps/leveldes/",
+        "size": 360
+    },
+    {
+        "date": "211",
+        "name": "leveldes.ipl",
+        "path": "data/maps/leveldes/",
+        "size": 165
+    },
+    {
+        "date": "212",
+        "name": "levelmap.ide",
+        "path": "data/maps/leveldes/",
+        "size": 3194
+    },
+    {
+        "date": "213",
+        "name": "levelmap.ipl",
+        "path": "data/maps/leveldes/",
+        "size": 4675
+    },
+    {
+        "date": "214",
+        "name": "levelxre.ide",
+        "path": "data/maps/leveldes/",
+        "size": 9897
+    },
+    {
+        "date": "215",
+        "name": "seabed.ide",
+        "path": "data/maps/leveldes/",
+        "size": 12039
+    },
+    {
+        "date": "216",
+        "name": "seabed.ipl",
+        "path": "data/maps/leveldes/",
+        "size": 23342
+    },
+    {
+        "date": "217",
+        "name": "veh_mods.ide",
+        "path": "data/maps/veh_mods/",
+        "size": 7323
+    },
+    {
+        "date": "218",
+        "name": "carrec.img",
+        "path": "data/paths/",
+        "size": 2357248
+    },
+    {
+        "date": "219",
+        "name": "ROADBLOX.DAT",
+        "path": "data/paths/",
+        "size": 1304
+    },
+    {
+        "date": "220",
+        "name": "tracks.dat",
+        "path": "data/paths/",
+        "size": 25474
+    },
+    {
+        "date": "221",
+        "name": "tracks2.dat",
+        "path": "data/paths/",
+        "size": 1892
+    },
+    {
+        "date": "222",
+        "name": "tracks3.dat",
+        "path": "data/paths/",
+        "size": 8328
+    },
+    {
+        "date": "223",
+        "name": "tracks4.dat",
+        "path": "data/paths/",
+        "size": 18347
+    },
+    {
+        "date": "224",
+        "name": "mainv1.scm",
+        "path": "data/script/",
+        "size": 18422
+    },
+    {
+        "date": "225",
+        "name": "mainv1.txt",
+        "path": "data/script/",
+        "size": 3690
+    },
+    {
+        "date": "226",
+        "name": "scriptv1.img",
+        "path": "data/script/",
+        "size": 4096
+    },
+    {
+        "date": "227",
+        "name": "effects.fxp",
+        "path": "models/",
+        "size": 616708
+    },
+    {
+        "date": "228",
+        "name": "peds.col",
+        "path": "models/coll/",
+        "size": 21477
+    },
+    {
+        "date": "229",
+        "name": "vehicles.col",
+        "path": "models/coll/",
+        "size": 1096
+    },
+    {
+        "date": "230",
+        "name": "weapons.col",
+        "path": "models/coll/",
+        "size": 560
+    },
+    {
+        "date": "231",
+        "name": "crash.log",
+        "path": "SAMP/",
+        "size": 6970
+    },
+    {
+        "date": "232",
+        "name": "crash_log.log",
+        "path": "SAMP/",
+        "size": 13760
+    },
+    {
+        "date": "233",
+        "name": "debug.log",
+        "path": "SAMP/",
+        "size": 548466
+    },
+    {
+        "date": "234",
+        "name": "gta.dat",
+        "path": "SAMP/",
+        "size": 1215
+    },
+    {
+        "date": "235",
+        "name": "main.scm",
+        "path": "SAMP/",
+        "size": 18422
+    },
+    {
+        "date": "236",
+        "name": "peds.ide",
+        "path": "SAMP/",
+        "size": 36369
+    },
+    {
+        "date": "237",
+        "name": "SAMP.ide",
+        "path": "SAMP/",
+        "size": 89349
+    },
+    {
+        "date": "238",
+        "name": "samp_log.txt",
+        "path": "SAMP/",
+        "size": 36827
+    },
+    {
+        "date": "239",
+        "name": "script.img",
+        "path": "SAMP/",
+        "size": 4096
+    },
+    {
+        "date": "240",
+        "name": "settings.ini",
+        "path": "SAMP/",
+        "size": 1836
+    },
+    {
+        "date": "241",
+        "name": "vehicleAudioSettings.cfg",
+        "path": "SAMP/",
+        "size": 24771
+    },
+    {
+        "date": "242",
+        "name": "vehicles.ide",
+        "path": "SAMP/",
+        "size": 21093
+    },
+    {
+        "date": "243",
+        "name": "arial.ttf",
+        "path": "SAMP/fonts/",
+        "size": 367112
+    },
+    {
+        "date": "244",
+        "name": "arial_bold.ttf",
+        "path": "SAMP/fonts/",
+        "size": 352224
+    },
+    {
+        "date": "245",
+        "name": "sampaux3.ttf",
+        "path": "SAMP/fonts/",
+        "size": 11544
+    },
+    {
+        "date": "246",
+        "name": "ru_font.ttf",
+        "path": "SAMP/plates/",
+        "size": 233076
+    },
+    {
+        "date": "247",
+        "name": "ua_font.ttf",
+        "path": "SAMP/plates/",
+        "size": 233176
+    },
+    {
+        "date": "248",
+        "name": "cutscene.img",
+        "path": "texdb/",
+        "size": 16029696
+    },
+    {
+        "date": "249",
+        "name": "gta3.img",
+        "path": "texdb/",
+        "size": 756213760
+    },
+    {
+        "date": "250",
+        "name": "gta_int.img",
+        "path": "texdb/",
+        "size": 4096
+    },
+    {
+        "date": "251",
+        "name": "player.img",
+        "path": "texdb/",
+        "size": 16412672
+    },
+    {
+        "date": "252",
+        "name": "SAMP.ide",
+        "path": "texdb/",
+        "size": 87794
+    },
+    {
+        "date": "253",
+        "name": "samp.img",
+        "path": "texdb/",
+        "size": 34738176
+    },
+    {
+        "date": "254",
+        "name": "SAMP.ipl",
+        "path": "texdb/",
+        "size": 2291
+    },
+    {
+        "date": "255",
+        "name": "SAMPCOL.img",
+        "path": "texdb/",
+        "size": 4253696
+    },
+    {
+        "date": "256",
+        "name": "cutscene.dxt.dat",
+        "path": "texdb/cutscene/",
+        "size": 5731070
+    },
+    {
+        "date": "257",
+        "name": "cutscene.dxt.tmb",
+        "path": "texdb/cutscene/",
+        "size": 19440
+    },
+    {
+        "date": "258",
+        "name": "cutscene.dxt.toc",
+        "path": "texdb/cutscene/",
+        "size": 1628
+    },
+    {
+        "date": "259",
+        "name": "cutscene.txt",
+        "path": "texdb/cutscene/",
+        "size": 24626
+    },
+    {
+        "date": "260",
+        "name": "gta3.dxt.dat",
+        "path": "texdb/gta3/",
+        "size": 190980384
+    },
+    {
+        "date": "261",
+        "name": "gta3.dxt.tmb",
+        "path": "texdb/gta3/",
+        "size": 360064
+    },
+    {
+        "date": "262",
+        "name": "gta3.dxt.toc",
+        "path": "texdb/gta3/",
+        "size": 27192
+    },
+    {
+        "date": "263",
+        "name": "gta3.txt",
+        "path": "texdb/gta3/",
+        "size": 402198
+    },
+    {
+        "date": "264",
+        "name": "gtasa.dxt.dat",
+        "path": "texdb/gtasa/",
+        "size": 495532
+    },
+    {
+        "date": "265",
+        "name": "gtasa.dxt.tmb",
+        "path": "texdb/gtasa/",
+        "size": 3264
+    },
+    {
+        "date": "266",
+        "name": "gtasa.dxt.toc",
+        "path": "texdb/gtasa/",
+        "size": 52
+    },
+    {
+        "date": "267",
+        "name": "gtasa.txt",
+        "path": "texdb/gtasa/",
+        "size": 860
+    },
+    {
+        "date": "268",
+        "name": "gta_int.dxt.dat",
+        "path": "texdb/gta_int/",
+        "size": 110555602
+    },
+    {
+        "date": "269",
+        "name": "gta_int.dxt.tmb",
+        "path": "texdb/gta_int/",
+        "size": 506176
+    },
+    {
+        "date": "270",
+        "name": "gta_int.dxt.toc",
+        "path": "texdb/gta_int/",
+        "size": 39660
+    },
+    {
+        "date": "271",
+        "name": "gta_int.txt",
+        "path": "texdb/gta_int/",
+        "size": 581058
+    },
+    {
+        "date": "272",
+        "name": "menu.dxt.dat",
+        "path": "texdb/menu/",
+        "size": 7799478
+    },
+    {
+        "date": "273",
+        "name": "menu.dxt.tmb",
+        "path": "texdb/menu/",
+        "size": 860
+    },
+    {
+        "date": "274",
+        "name": "menu.dxt.toc",
+        "path": "texdb/menu/",
+        "size": 176
+    },
+    {
+        "date": "275",
+        "name": "menu.txt",
+        "path": "texdb/menu/",
+        "size": 3342
+    },
+    {
+        "date": "276",
+        "name": "mobile.dxt.dat",
+        "path": "texdb/mobile/",
+        "size": 7267946
+    },
+    {
+        "date": "277",
+        "name": "mobile.dxt.tmb",
+        "path": "texdb/mobile/",
+        "size": 3940
+    },
+    {
+        "date": "278",
+        "name": "mobile.dxt.toc",
+        "path": "texdb/mobile/",
+        "size": 792
+    },
+    {
+        "date": "279",
+        "name": "mobile.txt",
+        "path": "texdb/mobile/",
+        "size": 14502
+    },
+    {
+        "date": "280",
+        "name": "player.dxt.dat",
+        "path": "texdb/player/",
+        "size": 6569414
+    },
+    {
+        "date": "281",
+        "name": "player.dxt.tmb",
+        "path": "texdb/player/",
+        "size": 6940
+    },
+    {
+        "date": "282",
+        "name": "player.dxt.toc",
+        "path": "texdb/player/",
+        "size": 1580
+    },
+    {
+        "date": "283",
+        "name": "player.txt",
+        "path": "texdb/player/",
+        "size": 27810
+    },
+    {
+        "date": "284",
+        "name": "playerhi.dxt.dat",
+        "path": "texdb/playerhi/",
+        "size": 27658902
+    },
+    {
+        "date": "285",
+        "name": "playerhi.dxt.tmb",
+        "path": "texdb/playerhi/",
+        "size": 6940
+    },
+    {
+        "date": "286",
+        "name": "playerhi.dxt.toc",
+        "path": "texdb/playerhi/",
+        "size": 1580
+    },
+    {
+        "date": "287",
+        "name": "playerhi.txt",
+        "path": "texdb/playerhi/",
+        "size": 28087
+    },
+    {
+        "date": "288",
+        "name": "samp.dxt.dat",
+        "path": "texdb/samp/",
+        "size": 23128546
+    },
+    {
+        "date": "289",
+        "name": "samp.dxt.tmb",
+        "path": "texdb/samp/",
+        "size": 21168
+    },
+    {
+        "date": "290",
+        "name": "samp.dxt.toc",
+        "path": "texdb/samp/",
+        "size": 6156
+    },
+    {
+        "date": "291",
+        "name": "samp.txt",
+        "path": "texdb/samp/",
+        "size": 90757
+    },
+    {
+        "date": "292",
+        "name": "txd.dxt.dat",
+        "path": "texdb/txd/",
+        "size": 286259208
+    },
+    {
+        "date": "293",
+        "name": "txd.dxt.tmb",
+        "path": "texdb/txd/",
+        "size": 382296
+    },
+    {
+        "date": "294",
+        "name": "txd.dxt.toc",
+        "path": "texdb/txd/",
+        "size": 7276
+    },
+    {
+        "date": "295",
+        "name": "txd.txt",
+        "path": "texdb/txd/",
+        "size": 127267
+    },
+    {
+        "date": "296",
+        "name": "txd.txt~",
+        "path": "texdb/txd/",
+        "size": 56225
+    }
+]
