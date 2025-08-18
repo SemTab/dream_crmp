@@ -28,6 +28,6 @@
 
 ---
 <p align="center">
-  <strong>Удачного использования❤️</strong><br>
+  <strong>Хорошего использования❤️</strong><br>
 </p>
 
