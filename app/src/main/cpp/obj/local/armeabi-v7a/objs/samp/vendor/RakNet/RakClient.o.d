@@ -22,14 +22,14 @@
   jni/vendor/RakNet/RakClientInterface.h \
   jni/vendor/RakNet/PacketEnumerations.h jni/vendor/RakNet/GetTime.h \
   jni/vendor/RakNet/../../main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/game/common.h jni/vendor/raknet/SAMP/samp_netencr.h \
   jni/vendor/raknet/SAMP/SAMPRPC.h jni/util/util.h \
   jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni/vendor/RakNet/../../str_obfuscator_no_template.hpp \
   jni/vendor/RakNet/..//..//..//santrope-tea-gtasa/encryption/common.h \
   jni/vendor/RakNet/../../game/game.h jni/game/rgba.h \
@@ -60,8 +60,8 @@
   jni/vendor/RakNet/../..//net/textlabelpool.h \
   jni/vendor/RakNet/../..//net/textdrawpool.h \
   jni/vendor/RakNet/../..//net/..//gui/ITouchListener.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni/vendor/RakNet/../..//net/streampool.h \
   jni/vendor/RakNet/../..//net/CActorPool.h \
   jni/vendor/RakNet/..//..//voice/CVoiceChatClient.h \
@@ -72,8 +72,8 @@
   jni/vendor/RakNet/..//..//voice/..//vendor/opus/opus_defines.h \
   jni/vendor/RakNet/..//..//voice/..///vendor/openal/AL/al.h \
   jni/vendor/RakNet/..//..//voice/..///vendor/openal/AL/alc.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
   jni/vendor/RakNet/..//..//voice/CSoundOutput.h \
   jni/vendor/RakNet/..//..//voice/..///vendor/openal/AL/alext.h \
   jni/vendor/RakNet/..//..//voice/..///vendor/openal/AL/efx.h \
@@ -88,7 +88,7 @@
   jni/vendor/RakNet/..//..//voice/ENetError.h \
   jni/vendor/RakNet/..//..//voice/common.h \
   jni/vendor/RakNet/..//..//voice/..//net/CRawData.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert
 
 jni/vendor/RakNet/RakClient.h:
 
@@ -166,13 +166,13 @@ jni/vendor/RakNet/GetTime.h:
 
 jni/vendor/RakNet/../../main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/game/common.h:
 
@@ -184,7 +184,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni/vendor/RakNet/../../str_obfuscator_no_template.hpp:
 
@@ -290,9 +290,9 @@ jni/vendor/RakNet/../..//net/textdrawpool.h:
 
 jni/vendor/RakNet/../..//net/..//gui/ITouchListener.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni/vendor/RakNet/../..//net/streampool.h:
 
@@ -314,9 +314,9 @@ jni/vendor/RakNet/..//..//voice/..///vendor/openal/AL/al.h:
 
 jni/vendor/RakNet/..//..//voice/..///vendor/openal/AL/alc.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
 
 jni/vendor/RakNet/..//..//voice/CSoundOutput.h:
 
@@ -346,4 +346,4 @@ jni/vendor/RakNet/..//..//voice/common.h:
 
 jni/vendor/RakNet/..//..//voice/..//net/CRawData.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:

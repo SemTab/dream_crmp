@@ -1,0 +1,7 @@
+#Tue Dec 02 18:32:59 MSK 2025
+base.0=D\:\\dream_crmp-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\dream_crmp-main\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\9\\classes.dex
+path.0=0/classes.dex
+path.1=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

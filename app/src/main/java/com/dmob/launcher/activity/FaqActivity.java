@@ -74,7 +74,7 @@ public class FaqActivity extends AppCompatActivity {
 
     private void loadFaqDataFromServer() {
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://cdn.bdsrvs.run/brp/")
+                .baseUrl("http://a1199406.xsph.ru/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
                 

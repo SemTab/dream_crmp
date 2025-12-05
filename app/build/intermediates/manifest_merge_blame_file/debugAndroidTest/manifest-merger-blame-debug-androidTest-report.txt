@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dmob.cr.test" >
+4
+5    <uses-sdk
+5-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:5:42-71
+8
+9    <instrumentation
+9-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:11:5-15:61
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:11:22-76
+11        android:functionalTest="false"
+11-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:14:22-52
+12        android:handleProfiling="false"
+12-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:13:22-53
+13        android:label="Tests for com.dmob.cr"
+13-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:15:22-59
+14        android:targetPackage="com.dmob.cr" />
+14-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:12:22-57
+15
+16    <application android:debuggable="true" >
+16-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:7:5-9:19
+17        <uses-library android:name="android.test.runner" />
+17-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:8:9-60
+17-->D:\dream_crmp-main\app\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest10829960350519215958.xml:8:23-57
+18    </application>
+19
+20</manifest>

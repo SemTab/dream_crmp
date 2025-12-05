@@ -1,13 +1,13 @@
 ./obj/local/armeabi-v7a/objs/samp/game/hooks.o: jni/game/hooks.cpp \
   jni/game/../main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/game/common.h jni/vendor/raknet/SAMP/samp_netencr.h \
   jni/vendor/raknet/SAMP/SAMPRPC.h jni/util/util.h \
   jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni/game/RW/RenderWare.h jni/game/RW/rwlpcore.h jni/game/RW/rwcore.h \
   jni\graphics/CSkyBox.h jni/game/../CJavaWrapper.h \
   jni/vendor\../CAndroidUtils.h jni/game/../util/armhook.h \
@@ -27,14 +27,14 @@
   jni/game/../CChatWindow.h jni/vendor/raknet/SingleProducerConsumer.h \
   jni/vendor/raknet/Export.h jni/game/../voice/CVoiceChatClient.h \
   jni/game/../voice/opensl_io2.h jni/game/../voice/CRingBuffer.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
   jni/game/../voice/..//vendor/opus/opus.h \
   jni/game/../voice/..//vendor/opus/opus_types.h \
   jni/game/../voice/..//vendor/opus/opus_defines.h \
   jni/game/../voice/..///vendor/openal/AL/al.h \
   jni/game/../voice/..///vendor/openal/AL/alc.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
   jni/game/../voice/CSoundOutput.h \
   jni/game/../voice/..///vendor/openal/AL/alext.h \
   jni/game/../voice/..///vendor/openal/AL/efx.h \
@@ -46,9 +46,9 @@
   jni/game/../voice/..//vendor/enet/include/list.h \
   jni/game/../voice/..//vendor/enet/include/callbacks.h \
   jni/game/../voice/ENetError.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni/game/../voice/common.h jni/game/../voice/..//net/CRawData.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert \
   jni/game/../gui/gui.h jni/game/../gui/../vendor/imgui/imgui.h \
   jni/game/../gui/../vendor/imgui/imconfig.h jni/game/../net/netgame.h \
   jni/game/../voice/..//net/../vendor/raknet/RakClientInterface.h \
@@ -80,8 +80,8 @@
   jni/game/..//..//santrope-tea-gtasa/encryption/common.h \
   jni/game/..///..//santrope-tea-gtasa/encryption/encrypt.h \
   jni/game/..//..//santrope-tea-gtasa/encryption/b64.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
   jni/game/..//..//santrope-tea-gtasa/encryption/vigenere.h \
   jni/game/..//nv_event.h jni/game/../util/crashlytics.h \
   jni/game/..//cryptors/MODELINFO_EDITABLE_result.h \
@@ -94,13 +94,13 @@
 
 jni/game/../main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/game/common.h:
 
@@ -112,7 +112,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni/game/RW/RenderWare.h:
 
@@ -206,7 +206,7 @@ jni/game/../voice/opensl_io2.h:
 
 jni/game/../voice/CRingBuffer.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
 jni/game/../voice/..//vendor/opus/opus.h:
 
@@ -218,9 +218,9 @@ jni/game/../voice/..///vendor/openal/AL/al.h:
 
 jni/game/../voice/..///vendor/openal/AL/alc.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
 
 jni/game/../voice/CSoundOutput.h:
 
@@ -246,13 +246,13 @@ jni/game/../voice/..//vendor/enet/include/callbacks.h:
 
 jni/game/../voice/ENetError.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni/game/../voice/common.h:
 
 jni/game/../voice/..//net/CRawData.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
 
 jni/game/../gui/gui.h:
 
@@ -332,9 +332,9 @@ jni/game/..///..//santrope-tea-gtasa/encryption/encrypt.h:
 
 jni/game/..//..//santrope-tea-gtasa/encryption/b64.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
 
 jni/game/..//..//santrope-tea-gtasa/encryption/vigenere.h:
 

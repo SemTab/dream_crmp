@@ -23,16 +23,16 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 public interface Interface {
-    @GET("https://cdn.bdsrvs.run/brp/mnbvcxzlkjhgfdsapoiuytrewqzx.php")
+    @GET("serversn.php")
     Call<ServersResponse> getServers();
 
-    @GET("https://cdn.bdsrvs.run/brp/asdkfjlqwertyuiopzxcvbnmghrw.php")
+    @GET("news.php")
     Call<List<News>> getNews();
 
-    @GET("https://cdn.bdsrvs.run/brp/plmoknijbuhvygctfxrdzeswaqyt.php")
+    @GET("faq.php")
     Call<List<FaqInfo>> getFaq();
     
-    @GET("https://cdn.bdsrvs.run/brp/qzxwemrtyubnalksjdhfgvcxzpoi.php")
+    @GET("launcher_status.php")
     Call<LauncherStatus> getLauncherStatus();
     
     /**

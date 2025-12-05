@@ -2,10 +2,10 @@
   jni/../santrope-tea-gtasa/encryption/CTinyEncrypt.cpp \
   jni/../santrope-tea-gtasa/encryption/CTinyEncrypt.h \
   jni/../santrope-tea-gtasa/encryption/common.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string
 
 jni/../santrope-tea-gtasa/encryption/CTinyEncrypt.h:
 
 jni/../santrope-tea-gtasa/encryption/common.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:

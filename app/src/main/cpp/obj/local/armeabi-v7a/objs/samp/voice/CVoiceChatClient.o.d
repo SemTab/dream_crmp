@@ -1,9 +1,9 @@
 ./obj/local/armeabi-v7a/objs/samp/voice/CVoiceChatClient.o: \
   jni/voice/CVoiceChatClient.cpp jni/voice/..//game/common.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
   jni/voice/CVoiceChatClient.h jni/voice/opensl_io2.h \
   jni/voice/CRingBuffer.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
   jni/voice/..//vendor/opus/opus.h \
   jni/voice/..//vendor/opus/opus_types.h \
   jni/voice/..//vendor/opus/opus_defines.h \
@@ -11,10 +11,10 @@
   jni/voice/..//vendor/raknet/Export.h \
   jni/voice/..///vendor/openal/AL/al.h \
   jni/voice/..///vendor/openal/AL/alc.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
   jni/voice/CSoundOutput.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/voice/..///vendor/openal/AL/alext.h \
   jni/voice/..///vendor/openal/AL/efx.h jni/voice/CStreamPlayer.h \
   jni/voice/CENetClient.h jni/voice/..//vendor/enet/include/enet.h \
@@ -23,14 +23,14 @@
   jni/voice/..//vendor/enet/include/protocol.h \
   jni/voice/..//vendor/enet/include/list.h \
   jni/voice/..//vendor/enet/include/callbacks.h jni/voice/ENetError.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni/voice/common.h jni/voice/..//net/CRawData.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert \
   jni/voice/../main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
   jni/vendor/raknet/SAMP/samp_netencr.h jni/vendor/raknet/SAMP/SAMPRPC.h \
   jni/util/util.h jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni/voice/../gui/gui.h jni/voice/../gui/../vendor/imgui/imgui.h \
   jni/voice/../gui/../vendor/imgui/imconfig.h jni/voice/../CChatWindow.h \
   jni/voice/../CKeyboard.h jni/keyboardhistory.h jni/game/game.h \
@@ -80,7 +80,7 @@
 
 jni/voice/..//game/common.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
 
 jni/voice/CVoiceChatClient.h:
 
@@ -88,7 +88,7 @@ jni/voice/opensl_io2.h:
 
 jni/voice/CRingBuffer.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
 jni/voice/..//vendor/opus/opus.h:
 
@@ -104,13 +104,13 @@ jni/voice/..///vendor/openal/AL/al.h:
 
 jni/voice/..///vendor/openal/AL/alc.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
 
 jni/voice/CSoundOutput.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/voice/..///vendor/openal/AL/alext.h:
 
@@ -134,17 +134,17 @@ jni/voice/..//vendor/enet/include/callbacks.h:
 
 jni/voice/ENetError.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni/voice/common.h:
 
 jni/voice/..//net/CRawData.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
 
 jni/voice/../main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
 jni/vendor/raknet/SAMP/samp_netencr.h:
 
@@ -154,7 +154,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni/voice/../gui/gui.h:
 

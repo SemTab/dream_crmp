@@ -1,0 +1,26 @@
+C:\aaa\!!!BRILLIANT RUSSIA\gamemodes\blackrussia.pwn(72) : предупреждение 201: повторное объявление константы/макроса (идентификатор "FOREACH_I_Bot")
+C:\aaa\!!!BRILLIANT RUSSIA\gamemodes\blackrussia.pwn(73) : предупреждение 201: повторное объявление константы/макроса (идентификатор "FOREACH_I_Character")
+C:\aaa\!!!BRILLIANT RUSSIA\pawno\include\brnotification.inc(24) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\aaa\!!!BRILLIANT RUSSIA\pawno\include\customhud.inc(71) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\aaa\!!!BRILLIANT RUSSIA\pawno\include\customhud.inc(330) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\aaa\!!!BRILLIANT RUSSIA\pawno\include\customtune.inc(211) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\aaa\!!!BRILLIANT RUSSIA\pawno\include\customtune.inc(272) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\aaa\!!!BRILLIANT RUSSIA\pawno\include\customtune.inc(721) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\aaa\!!!BRILLIANT RUSSIA\gamemodes\blackrussia.pwn(85) : предупреждение 201: повторное объявление константы/макроса (идентификатор "M_DIALOG_DialogForPlayer")
+C:\aaa\!!!BRILLIANT RUSSIA\gamemodes\blackrussia.pwn(9293) : неправильная табуляция
+C:\aaa\!!!BRILLIANT RUSSIA\gamemodes\blackrussia.pwn(63868) : неправильная табуляция
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+Размер заголовка:	   23188 байт
+Размер кода:		 1938724 байт
+Размер данных:		44291536 байт
+Размер стэка\кучи:	   25000 байт; Примерное макс. использование=5023 ячеек (20092 байт)
+Всего требуется:	46278448 байт
+
+Предупреждений:9.

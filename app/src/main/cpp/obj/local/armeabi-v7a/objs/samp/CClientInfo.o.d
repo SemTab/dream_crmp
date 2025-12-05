@@ -1,15 +1,15 @@
 ./obj/local/armeabi-v7a/objs/samp/CClientInfo.o: jni/CClientInfo.cpp \
   jni/CClientInfo.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
   jni/main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/game/common.h jni/vendor/raknet/SAMP/samp_netencr.h \
   jni/vendor/raknet/SAMP/SAMPRPC.h jni/util/util.h \
   jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni/game/game.h jni/game/rgba.h jni/game/aimstuff.h jni/game/pad.h \
   jni/game/quaternion.h jni/game/entity.h jni/game/playerped.h \
   jni/game/vehicle.h jni/game/object.h jni/game/camera.h jni/game/font.h \
@@ -42,8 +42,8 @@
   jni/net/playerpool.h jni/net/vehiclepool.h jni/net/gangzonepool.h \
   jni/net/objectpool.h jni/net/pickuppool.h jni/net/textlabelpool.h \
   jni/net/textdrawpool.h jni/net/..//gui/ITouchListener.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni/net/streampool.h \
   jni/net/..//vendor/raknet/SingleProducerConsumer.h \
   jni/net/CActorPool.h jni/CSettings.h jni/vendor/raknet/SHA1.h \
@@ -51,17 +51,17 @@
 
 jni/CClientInfo.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
 
 jni/main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/game/common.h:
 
@@ -73,7 +73,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni/game/game.h:
 
@@ -197,9 +197,9 @@ jni/net/textdrawpool.h:
 
 jni/net/..//gui/ITouchListener.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni/net/streampool.h:
 

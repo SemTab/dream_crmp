@@ -83,6 +83,11 @@ public class GTASA extends WarMedia {
         super.onCreate(bundle);
             } catch (StackOverflowError e) {
                 System.err.println("Перехвачено переполнение стека в GTASA.onCreate(): " + e.getMessage());
+                e.printStackTrace();
+            } catch (Exception e) {
+                System.err.println("Ошибка при инициализации GTASA: " + e.getMessage());
+                e.printStackTrace();
+                throw new RuntimeException("Failed to initialize GTASA: " + e.getMessage(), e);
             }
         } else {
             System.out.println("GTASA onCreate уже был вызван, пропускаем");

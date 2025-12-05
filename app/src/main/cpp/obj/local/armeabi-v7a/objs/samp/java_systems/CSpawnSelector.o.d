@@ -1,14 +1,14 @@
 ./obj/local/armeabi-v7a/objs/samp/java_systems/CSpawnSelector.o: \
   jni/java_systems/CSpawnSelector.cpp jni/java_systems/CSpawnSelector.h \
   jni\main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/game/common.h jni/vendor/raknet/SAMP/samp_netencr.h \
   jni/vendor/raknet/SAMP/SAMPRPC.h jni/util/util.h \
   jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni\gui/gui.h jni\gui/../vendor/imgui/imgui.h \
   jni\gui/../vendor/imgui/imconfig.h \
   jni\gui/..//vendor/raknet/SingleProducerConsumer.h \
@@ -44,8 +44,8 @@
   jni\net/playerpool.h jni\net/vehiclepool.h jni\net/gangzonepool.h \
   jni\net/objectpool.h jni\net/pickuppool.h jni\net/textlabelpool.h \
   jni\net/textdrawpool.h jni\net/..//gui/ITouchListener.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni\net/streampool.h jni\net/CActorPool.h jni\CChatWindow.h \
   jni\playertags.h jni\CDialog.h jni\CKeyboard.h jni/keyboardhistory.h \
   jni\CSettings.h jni\util/armhook.h jni\CJavaWrapper.h \
@@ -55,13 +55,13 @@ jni/java_systems/CSpawnSelector.h:
 
 jni\main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/game/common.h:
 
@@ -73,7 +73,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni\gui/gui.h:
 
@@ -205,9 +205,9 @@ jni\net/textdrawpool.h:
 
 jni\net/..//gui/ITouchListener.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni\net/streampool.h:
 

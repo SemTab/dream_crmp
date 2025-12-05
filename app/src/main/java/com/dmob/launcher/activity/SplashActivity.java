@@ -133,7 +133,7 @@ public class SplashActivity extends AppCompatActivity{
         LogHelper.i(LogHelper.TAG_MAIN, "Начало инициализации данных приложения");
         
         // Используем новый метод с логированием
-        Interface sInterface = Interface.createWithLogs("http://vbd.fdv.dd/");
+        Interface sInterface = Interface.createWithLogs("http://a1199406.xsph.ru/");
         
         // Явно проверяем статус лаунчера
         LogHelper.i(LogHelper.TAG_MAIN, "Проверка статуса лаунчера...");

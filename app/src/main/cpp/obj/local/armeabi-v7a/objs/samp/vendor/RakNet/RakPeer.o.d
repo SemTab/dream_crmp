@@ -19,14 +19,14 @@
   jni/vendor/RakNet/RPCMap.h jni/vendor/RakNet/SimpleMutex.h \
   jni/vendor/RakNet/DS_QueueLinkedList.h \
   jni/vendor/RakNet/..//..//main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/game/common.h jni/vendor/raknet/SAMP/samp_netencr.h \
   jni/vendor/raknet/SAMP/SAMPRPC.h jni/util/util.h \
   jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni/vendor/RakNet/GetTime.h jni/vendor/RakNet/PacketEnumerations.h \
   jni/vendor/RakNet/DS_HuffmanEncodingTree.h \
   jni/vendor/RakNet/DS_HuffmanEncodingTreeNode.h \
@@ -64,13 +64,13 @@
   jni/vendor/RakNet/../..//net/textlabelpool.h \
   jni/vendor/RakNet/../..//net/textdrawpool.h \
   jni/vendor/RakNet/../..//net/..//gui/ITouchListener.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni/vendor/RakNet/../..//net/streampool.h \
   jni/vendor/RakNet/../..//net/CActorPool.h \
   jni/vendor/RakNet/../..//CClientInfo.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
   jni/vendor/RakNet/..//..//cryptors/SERVER_CHECK1_result.h \
   jni/vendor/RakNet/..//..//cryptors/SERVER_CHECK2_result.h \
   jni/vendor/RakNet/..//..//..//santrope-tea-gtasa/encryption/CTEA.h \
@@ -144,13 +144,13 @@ jni/vendor/RakNet/DS_QueueLinkedList.h:
 
 jni/vendor/RakNet/..//..//main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/game/common.h:
 
@@ -162,7 +162,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni/vendor/RakNet/GetTime.h:
 
@@ -290,9 +290,9 @@ jni/vendor/RakNet/../..//net/textdrawpool.h:
 
 jni/vendor/RakNet/../..//net/..//gui/ITouchListener.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni/vendor/RakNet/../..//net/streampool.h:
 
@@ -300,9 +300,9 @@ jni/vendor/RakNet/../..//net/CActorPool.h:
 
 jni/vendor/RakNet/../..//CClientInfo.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
 
 jni/vendor/RakNet/..//..//cryptors/SERVER_CHECK1_result.h:
 

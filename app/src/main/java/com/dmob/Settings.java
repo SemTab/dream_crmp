@@ -21,8 +21,8 @@ public class Settings {
     // public static String DOWNLOAD_FILENAME = "cache.zip";
 
     public static final String GAME_PATH = Environment.getExternalStorageDirectory() + "/Dream"; // путь к игре
-    public static final String GAME_URL = "https://cdn.bdsrvs.run/brp/files";
-    public static final String GAME_URL_2 = "https://cdn.bdsrvs.run/brp/api.json";
+    public static final String GAME_URL = "http://a1199406.xsph.ru/files";
+    public static final String GAME_URL_2 = "http://a1199406.xsph.ru/api.json";
     
     // Настройка проверки файлов
     public static final String SKIP_FILES_CHECK = "skip_files_check"; // Ключ для настройки в INI файле

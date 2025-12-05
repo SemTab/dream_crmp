@@ -1,0 +1,2134 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_bg_picture__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_bg_picture__0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_azs_ai98.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_azs_ai98.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_queue_music.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_queue_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_skip_previous.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_seek_arc_control_selector.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\seek_arc_control_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_n.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_n.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_item_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_item_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_brp_numbers.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\brp_numbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings_hud.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings_hud.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_atypdisplay_bold_italic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\atypdisplay_bold_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_ingame_server_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\ingame_server_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_pro_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_pro_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_color_choose.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_color_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_progressbar_noty.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\progressbar_noty.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_radial_title_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\radial_title_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable__2sdp_divider.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\_2sdp_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_buy_exclusive_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_buy_exclusive_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_lock_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_lock_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_menu_cars.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_menu_cars.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_notification.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_10.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_10.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_telegram_png.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_telegram_png.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_belarus.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_belarus.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_21.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_21.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_heart.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_btn_circle_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\btn_circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_binder_delete.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\binder_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_azs_start_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\azs_start_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_roboto_black.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_39.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_39.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_close.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_bg_active__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_bg_active__0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_pt_root_ui_regular.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\pt_root_ui_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_shape_preview_news.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\shape_preview_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_azs_fuel_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\azs_fuel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_notosans_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\notosans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_inter_loading_progress_bar.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\inter_loading_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_donate_btn.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\donate_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color_common_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_hassle_tab.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\hassle_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_wkt_iphone_15_lkup.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\wkt_iphone_15_lkup.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_bg_play_re.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\bg_play_re.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_ingame_server_selector.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\ingame_server_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_ua_num.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_ua_num.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_music_player_play_button_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\music_player_play_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_item_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gilroy_semibold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gilroy_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_alt.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gilroy.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gilroy.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_pt_root_ui_light.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\pt_root_ui_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_bind_add.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_bind_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_sfprodisplaybold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\sfprodisplaybold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_atypdisplay_semibold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\atypdisplay_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_y.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_discord.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_discord.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_btn_1.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_btn_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xxhdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xxhdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_popup_show.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\popup_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_azs_dt.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_azs_dt.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_bg_dialog_pre.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\bg_dialog_pre.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_item_reward_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_item_reward_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_6.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_6.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_faq_item_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\faq_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_menu_animations.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_menu_animations.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_pro_black.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_pro_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_37.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_37.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_register_layout.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\register_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_second_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_second_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_46.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_46.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_button.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_gradient_dot.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\gradient_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_btn_bg_2.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_btn_bg_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings_common.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings_common.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_arrow_up.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_arrow_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_menu_burger.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_menu_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_geo.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_geo.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_button_key.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\button_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_up.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_change_numbers_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_change_numbers_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xhdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xhdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_storage_warning.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_storage_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_preview_news_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\preview_news_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_scrollbar_track.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_scrollbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_exclusive_numbers_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_exclusive_numbers_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_chat_send_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\chat_send_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_enter__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_enter__0.xml"
+    },
+    {
+        "merged": "com.dmob.cr.app-merged_res-46:/layout_dialog_storage_warning.xml.flat",
+        "source": "com.dmob.cr.app-main-48:/layout/dialog_storage_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_nik_rectangle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\nik_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color_common_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_pt_root_ui_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\pt_root_ui_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_music_player.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\music_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_numbers_country_item_exclusive_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\numbers_country_item_exclusive_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_binder_scrollbar_thumb.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_binder_scrollbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_star.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_btn_forum.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\btn_forum.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_pensive_face.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\pensive_face.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_32.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_32.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_brilliant_logo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_brilliant_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_y_star.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_y_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_delete_game.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\delete_game.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_hunger.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\hunger.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_hud_time_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\hud_time_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_bspeed_layout.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\bspeed_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_18.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_18.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_settings_btn_2.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_settings_btn_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_dialog_slide_in.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\dialog_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_shape_numbers.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\shape_numbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_numbers_country_item_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\numbers_country_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_menu_inventory.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_menu_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_12.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_12.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms_blackitalic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms_blackitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_russia.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_russia.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_vk.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_vk.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_ss_item_not_found.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_ss_item_not_found.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_25.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_25.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_facts_out.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\facts_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_fraction.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_fraction.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_good.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_good.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_34.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_34.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_music_player_seekbar_thumb.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\music_player_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_azs_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_azs_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_shift_off.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_shift_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_bind_settings.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_bind_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_load.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_scrollbar_vertical_track.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_scrollbar_vertical_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_binder_scrollbar_track.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_binder_scrollbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_emoji_newspaper.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\emoji_newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_cmd.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_cmd.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_seatbelt_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_seatbelt_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_3.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_3.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_telegram.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_telegram.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_skip_next.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_loading.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\loading.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_h.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_h.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_bg_picture.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_bg_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_armour.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\armour.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_pt_root_ui_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\pt_root_ui_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_na_glavnuyu.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\na_glavnuyu.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_circle_glow.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\circle_glow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_33.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_33.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_sfprodisplaymedium.OTF.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\sfprodisplaymedium.OTF"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_muller_regular.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\muller_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color_wallet_secondary_text_holo_dark.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gothampro_black.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gothampro_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_track_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\track_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_radial_menu_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\radial_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-mdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_background_brilliant.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\background_brilliant.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_radial_center_button.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\radial_center_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_item_start_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_item_start_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xxxhdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_health.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\health.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_tajawal_regular.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\tajawal_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_4.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_4.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_sd_dialog.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\sd_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_hud_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_hud_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_shift_single.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_shift_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_1.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_1.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_keyboard_hint_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\keyboard_hint_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_arrow_down.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_eat.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_eat.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings_old.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_material_ic_keyboard_arrow_left_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\material_ic_keyboard_arrow_left_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_24.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_24.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_binder_save.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\binder_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_main.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_main.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_money_increase.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\money_increase.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_bullet.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_bullet.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_music_option_item_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_music_option_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_sd_dialog_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\sd_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_brp_spawn_selector.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\brp_spawn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_select_rb_left_checked.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\select_rb_left_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_item_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms_extrabold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_material_ic_keyboard_arrow_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\material_ic_keyboard_arrow_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_item_complete_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_item_complete_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xxxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ua_font.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ua_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_players_list_border_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\players_list_border_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_popup_hide_notification.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\popup_hide_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_music_player_seekbar_style.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\music_player_seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_colorpicker.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_webview_donate.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_webview_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_black_italic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_black_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_brp_numbers_country_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\brp_numbers_country_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_scrollbar_thumb.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_scrollbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_engine_off.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_engine_off.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_keyboard_input_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\keyboard_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_pro_black_italic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_pro_black_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi_scrubber_control_disabled_holo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi\\scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_players_list_border_search.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\players_list_border_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color-xxhdpi-v4_res_0x7f07000d_ic_hud_x2__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color-xxhdpi-v4\\res_0x7f07000d_ic_hud_x2__0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_bg_active.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_bg_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_bcaptcha_layout.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\bcaptcha_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_servers_layout_new.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\servers_layout_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_ss_item_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_ss_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_server_rectangle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\server_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montsserat_semibold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montsserat_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_plate.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\plate.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_23.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_23.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms_bold.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gilroybold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gilroybold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_muller_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\muller_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_36.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_36.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_rpc_greenzone.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\rpc_greenzone.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_ic_plusone_medium_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_rpc_gps.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\rpc_gps.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_play_saint.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\play_saint.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_akrobat_extra_bold.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\akrobat_extra_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_shift_always.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_shift_always.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_button_red_rectangle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\button_red_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_lights_off.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_lights_off.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_wrench.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_wrench.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_loadingscreen.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\loadingscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_select_rb_right_unchecked.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\select_rb_right_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_dialog_slide_out.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\dialog_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_first_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_first_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_22.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_22.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_menu_donate.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_menu_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_repeat.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_35.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_35.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_akrobat_semi_bold.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\akrobat_semi_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_settings_new_icon.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_settings_new_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_parking_icon_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_parking_icon_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_scrollbar_vertical_thumb.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_hassle_tab_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\hassle_tab_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_settings_icon.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_settings_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_ctrl.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_ctrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_2.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_double_server_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\double_server_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_players_list_scroll_track.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\players_list_scroll_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_akrobat_bold.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\akrobat_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_brilliant_logo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_brilliant_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_select_rb_left_selector.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\select_rb_left_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_button_red_rectangle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\button_red_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color_wallet_primary_text_holo_light.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_numbers_country_item_bg_without_stroke.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\numbers_country_item_bg_without_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_players_list_scroll_thumb.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\players_list_scroll_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_quest_progress_bar.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\quest_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_din_pro_black.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\din_pro_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color-xxhdpi-v4_res_0x7f07000b_ic_hud_bg__1.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color-xxhdpi-v4\\res_0x7f07000b_ic_hud_bg__1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_donate_scrollbar_track.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\donate_scrollbar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montserrat_bolditalic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montserrat_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_bloading_screen.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\bloading_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi_scrubber_control_normal_holo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi\\scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_manrope_extrabold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\manrope_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_chat_input_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\chat_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_input_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_11.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_11.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_b_y.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\b_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_play_music.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_play_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\animator_reduce_size.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\animator\\reduce_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_x_btn.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_x_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_brp_ss_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\brp_ss_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_lock_off.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_lock_off.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_error.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_progressbar.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_button_red_stroke_rectangle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\button_red_stroke_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ss_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ss_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_rounded_background_dark.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\rounded_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_logo_no_map.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\logo_no_map.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_chat.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_send.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_13.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_13.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_menu_navigation.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_add_music.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_add_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_bg_play_without_shadow.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\bg_play_without_shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_chat_header_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\chat_header_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_music_player_button_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\music_player_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_sfprodisplaysemibold.OTF.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\sfprodisplaysemibold.OTF"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_select_rb_right_checked.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\select_rb_right_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_lock_icon.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_lock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_hassle_speed_menu.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\hassle_speed_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_azs_incorrect_fuel.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_azs_incorrect_fuel.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_radial_divider.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\radial_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_manrope_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\manrope_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_download.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\download.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_hud_logo_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\hud_logo_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_br_notification.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\br_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_adtlogo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\adtlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_loading_app.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_loading_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_hot_face.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\hot_face.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_9.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_9.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_train.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_train.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_settings_dialog_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\settings_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-mdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-mdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_music_options_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_music_options_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_brp_azs.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\brp_azs.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_bg__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_bg__0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_superwebcomic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\superwebcomic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_bhud_layout.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\bhud_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_chat_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\chat_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ru_font.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ru_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_din_pro_black_italic.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\din_pro_black_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_hud_x2.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_hud_x2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi_scrubber_control_focused_holo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi\\scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_45.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_45.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_keyboard_btn_settings_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\keyboard_btn_settings_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_keyboard_history_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\keyboard_history_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_radial_menu_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\radial_menu_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_loading_progress_bar.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\loading_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_noty_btn_1__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_noty_btn_1__0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings_color.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_chat_edittext_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\chat_edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_wkt_iphone_15_lkbottom.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\wkt_iphone_15_lkbottom.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-ldpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_select_rb_right_selector.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\select_rb_right_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_chat_toggle_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\chat_toggle_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_0.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_0.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings_weapons.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings_weapons.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_star2.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\star2.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\raw_loading.mp3.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\raw\\loading.mp3"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_azs_ai95.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_azs_ai95.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_ic_plusone_tall_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_name_input_bg.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_name_input_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montserrat_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montserrat_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_akrobat_extrabold.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\akrobat_extrabold.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_stories.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_stories.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_40.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_40.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_binder_cancel.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\binder_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_reset_numbers_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_reset_numbers_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montserrat_black.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montserrat_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_header_shadow.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_header_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_atypdisplay_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\atypdisplay_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_background_weikton.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\background_weikton.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-mdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-mdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_menu_close.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\menu_close.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_roboto_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_launcher_disabled.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_launcher_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_5.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_5.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_popup_show_notification.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\popup_show_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_faq_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\faq_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\animator_regain_size.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\animator\\regain_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_pause_music.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_pause_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_stroboscope_icon_grey.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_stroboscope_icon_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_ic_search.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_btn_click.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\btn_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_yt.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_yt.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_38.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_38.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_settings_button_close.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\settings_button_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_reinstall_game.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\reinstall_game.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_g.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_g.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_shape_numbers_exclusive.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\shape_numbers_exclusive.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_wallet.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_select_rb_left_unchecked.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\select_rb_left_unchecked.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_light_icon.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_light_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_26.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_26.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_keyboard_btn_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\keyboard_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_powered_by_google_light.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_down.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_btn_play.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\btn_play.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_button_0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_button_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_logo_pulse.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\logo_pulse.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_neon_icon_grey.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_neon_icon_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_ru_num.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_ru_num.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_27.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_27.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_armor.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_armor.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_42.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_42.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_azs_ai92.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_azs_ai92.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_kz_num.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_kz_num.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_17.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_17.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_hud_grzone.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\hud_grzone.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_bl_num.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_bl_num.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color-xxhdpi-v4_res_0x7f07000c_ic_hud_bg__2.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color-xxhdpi-v4\\res_0x7f07000c_ic_hud_bg__2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_music_note.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_music_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_settings_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_settings_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_manrope_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\manrope_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\color-xxhdpi-v4_res_0x7f07000a_ic_hud_bg__0.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\color-xxhdpi-v4\\res_0x7f07000a_ic_hud_bg__0.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_shape_news.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\shape_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_keyboard.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_auth_layout.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\auth_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_din_pro_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\din_pro_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_edit_rectangle.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\edit_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_canister.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_canister.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_item_change_nik.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\item_change_nik.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_faq_item_description_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\faq_item_description_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_29.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_29.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_16.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_16.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_mileage_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\mileage_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_edit.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-mdpi-v4_ic_plusone_standard_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_keyboard_enter.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_keyboard_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_muller_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\muller_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_hud_progress_bar.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\hud_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_41.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_41.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi_scrubber_control_pressed_holo.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi\\scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-hdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-hdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_facts_in.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\facts_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_44.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_44.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_clock.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_settings_fps.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_settings_fps.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_button_click.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\button_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_actions_menu.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\actions_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_engine_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_engine_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_button_1.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_button_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_31.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_31.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_rounded_dark_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\rounded_dark_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_15.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_15.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_players_list_bg_value_players.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\players_list_bg_value_players.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_boombox.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_boombox.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_widgetgetin.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\widgetgetin.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_30.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_30.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_black_bot.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\black_bot.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_logo.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ss_btn_bg_new.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ss_btn_bg_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xxhdpi-v4_ic_user.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xxhdpi-v4\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_shipping_server_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\shipping_server_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montsserat_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montsserat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_dialog_music_options.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\dialog_music_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_settings_button_reset.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\settings_button_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_input_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-hdpi-v4_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-hdpi-v4\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_pro_regular.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_pro_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_7.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_7.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gotham_pro_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gotham_pro_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_14.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_14.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_donut_btn.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\donut_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_ic_plusone_small_off_client.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_chat_message.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_akrobat_semibold.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\akrobat_semibold.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_visby_cf_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\visby_cf_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_popup_hide.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\popup_hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_gradient_donut.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\gradient_donut.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_input_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_din_pro_medium.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\din_pro_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gothampro.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gothampro.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_kazakhstan.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_kazakhstan.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_28.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_28.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gothampro_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gothampro_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_btn_release.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\btn_release.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_donate_colored.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_donate_colored.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_backspace.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_gilroysemibold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\gilroysemibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_speedometer_status_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\speedometer_status_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_buy_btn.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_buy_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_ukraine.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_ukraine.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_43.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_43.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_weapon_8.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\weapon_8.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_sp_engine_icon.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\sp_engine_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_chat_message_bg.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_chat_message_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_numbers_exit.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_numbers_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\anim_logo_anim.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\anim\\logo_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_faq.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_key_actions.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\key_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable-xhdpi-v4_players_list_background.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable-xhdpi-v4\\players_list_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_bg_login.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\bg_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_pricedownbl.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\pricedownbl.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ic_dropdown.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ic_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_ttnorms_regular.otf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\ttnorms_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_brp_welcome.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\brp_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_seatbelt_off.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_seatbelt_off.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_petrol.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_petrol.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\mipmap-xxxhdpi-v4_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\mipmap-xxxhdpi-v4\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_ico_lights_on.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\ico_lights_on.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_server_x2.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\server_x2.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_main_render_screen.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\main_render_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\layout_activity_pre_load.xml.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\layout\\activity_pre_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-merged_res-46:\\drawable_speed_bg.png.flat",
+        "source": "C:\\Users\\pc\\.gradle\\daemon\\7.3.3\\com.dmob.cr.app-main-48:\\drawable\\speed_bg.png"
+    }
+]

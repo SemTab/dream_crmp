@@ -1,13 +1,13 @@
 ./obj/local/armeabi-v7a/objs/samp/gui/gui.o: jni/gui/gui.cpp \
   jni/gui/../main.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
   jni/game/common.h jni/vendor/raknet/SAMP/samp_netencr.h \
   jni/vendor/raknet/SAMP/SAMPRPC.h jni/util/util.h \
   jni/vendor/obfuscate/str_obfuscate.hpp \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
   jni/gui/gui.h jni/gui/../vendor/imgui/imgui.h \
   jni/gui/../vendor/imgui/imconfig.h \
   jni/gui/..//vendor/raknet/SingleProducerConsumer.h \
@@ -45,13 +45,13 @@
   jni/gui/../net/objectpool.h jni/gui/../net/pickuppool.h \
   jni/gui/../net/textlabelpool.h jni/gui/../net/textdrawpool.h \
   jni/gui/../net/..//gui/ITouchListener.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread \
   jni/gui/../net/streampool.h jni/gui/../net/CActorPool.h \
   jni/gui/../CChatWindow.h jni/gui/../playertags.h jni/gui/../CDialog.h \
   jni/gui/../CKeyboard.h jni/keyboardhistory.h jni/gui/../CSettings.h \
   jni/gui/..//scoreboard.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream \
   jni/gui/../CJavaWrapper.h jni/vendor\../CAndroidUtils.h \
   jni/gui/..//CServerManager.h jni/str_obfuscator_no_template.hpp \
   jni/gui/..//voice/CVoiceChatClient.h jni/gui/..//voice/opensl_io2.h \
@@ -61,8 +61,8 @@
   jni/gui/..//voice/..//vendor/opus/opus_defines.h \
   jni/gui/..//voice/..///vendor/openal/AL/al.h \
   jni/gui/..//voice/..///vendor/openal/AL/alc.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic \
   jni/gui/..//voice/CSoundOutput.h \
   jni/gui/..//voice/..///vendor/openal/AL/alext.h \
   jni/gui/..//voice/..///vendor/openal/AL/efx.h \
@@ -75,18 +75,18 @@
   jni/gui/..//voice/..//vendor/enet/include/callbacks.h \
   jni/gui/..//voice/ENetError.h jni/gui/..//voice/common.h \
   jni/gui/..//voice/..//net/CRawData.h \
-  D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert \
+  D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert \
   jni/gui/..//CDebugInfo.h
 
 jni/gui/../main.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstdlib:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\string:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
 
 jni/game/common.h:
 
@@ -98,7 +98,7 @@ jni/util/util.h:
 
 jni/vendor/obfuscate/str_obfuscate.hpp:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
 
 jni/gui/gui.h:
 
@@ -230,9 +230,9 @@ jni/gui/../net/textdrawpool.h:
 
 jni/gui/../net/..//gui/ITouchListener.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\mutex:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\thread:
 
 jni/gui/../net/streampool.h:
 
@@ -252,7 +252,7 @@ jni/gui/../CSettings.h:
 
 jni/gui/..//scoreboard.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iostream:
 
 jni/gui/../CJavaWrapper.h:
 
@@ -278,9 +278,9 @@ jni/gui/..//voice/..///vendor/openal/AL/al.h:
 
 jni/gui/..//voice/..///vendor/openal/AL/alc.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\queue:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\atomic:
 
 jni/gui/..//voice/CSoundOutput.h:
 
@@ -310,6 +310,6 @@ jni/gui/..//voice/common.h:
 
 jni/gui/..//voice/..//net/CRawData.h:
 
-D:/ndk/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
+D:/android-ndk-r16b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cassert:
 
 jni/gui/..//CDebugInfo.h:

@@ -1,0 +1,7 @@
+com.dmob.cr.test.app-androidTest-0 D:\dream_crmp-main\app\build\generated\res\resValues\androidTest\debug
+com.dmob.cr.test.app-androidTest-1 D:\dream_crmp-main\app\build\generated\res\rs\androidTest\debug
+com.dmob.cr.test.app-mergeDebugAndroidTestResources-2 D:\dream_crmp-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dmob.cr.test.app-mergeDebugAndroidTestResources-3 D:\dream_crmp-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dmob.cr.test.app-merged_res-4 D:\dream_crmp-main\app\build\intermediates\merged_res\debugAndroidTest
+com.dmob.cr.test.app-androidTest-5 D:\dream_crmp-main\app\src\androidTest\res
+com.dmob.cr.test.app-androidTestDebug-6 D:\dream_crmp-main\app\src\androidTestDebug\res

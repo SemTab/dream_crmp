@@ -55,6 +55,8 @@ import com.dmob.cr.core.GTASA;
 import com.dmob.launcher.network.FileCheckSumSHA;
 import com.dmob.launcher.network.HTMLFileDownloader;
 import com.dmob.launcher.network.Interface;
+import com.dmob.launcher.utils.StorageUtils;
+import com.dmob.launcher.utils.StorageWarningDialog;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -317,6 +319,7 @@ public class LoaderActivity extends AppCompatActivity {
             File directory = params[0];
             String dirPath = directory.getPath();
             try {
+                Log.i("BR-RP-DOWNLOAD", "Начало загрузки файлов из: " + dirPath);
                 MessageDigest md = MessageDigest.getInstance("SHA-256");
                 int count_in_keyset = controlHashesList.keySet().size();
                 long totalSizeOfFiles = 0L;
@@ -425,19 +428,27 @@ public class LoaderActivity extends AppCompatActivity {
                 return 1;
             }
             catch (MalformedURLException ex) {
-                System.err.println("/ LoadGameCacheFiles Ошибка при создании URL: " + ex.getMessage());
+                String errorMsg = "Ошибка при создании URL: " + ex.getMessage();
+                Log.e("BR-RP-DOWNLOAD", errorMsg, ex);
+                System.err.println("/ LoadGameCacheFiles " + errorMsg);
                 ex.printStackTrace();
                 return 0;
             } catch (FileNotFoundException ex) {
-                System.err.println("/ LoadGameCacheFiles Файл не найден: " + ex.getMessage());
+                String errorMsg = "Файл не найден: " + ex.getMessage();
+                Log.e("BR-RP-DOWNLOAD", errorMsg, ex);
+                System.err.println("/ LoadGameCacheFiles " + errorMsg);
                 ex.printStackTrace();
                 return 0;
             } catch (SocketTimeoutException ex) {
-                System.err.println("/ LoadGameCacheFiles Соединение разорвано: " + ex.getMessage());
+                String errorMsg = "Соединение разорвано: " + ex.getMessage();
+                Log.e("BR-RP-DOWNLOAD", errorMsg, ex);
+                System.err.println("/ LoadGameCacheFiles " + errorMsg);
                 ex.printStackTrace();
                 return 0;
             } catch (Exception ex) {
-                System.err.println("/ LoadGameCacheFiles Ошибка: " + ex.getMessage());
+                String errorMsg = "Ошибка загрузки: " + ex.getClass().getSimpleName() + " - " + ex.getMessage();
+                Log.e("BR-RP-DOWNLOAD", errorMsg, ex);
+                System.err.println("/ LoadGameCacheFiles " + errorMsg);
                 ex.printStackTrace();
                 return 0;
             }
@@ -665,8 +676,97 @@ public class LoaderActivity extends AppCompatActivity {
         }
 
         // Обычная проверка файлов
+        // Сначала проверяем место на диске
+        checkStorageAndStartDownload();
+    }
+    
+    private void checkStorageAndStartDownload() {
+        try {
+            // Подсчитываем общий размер файлов из api.json
+            long totalRequiredSize = calculateTotalFileSize();
+            
+            Log.i("BR-RP-STORAGE", "Total required size: " + StorageUtils.formatBytes(totalRequiredSize));
+            
+            // Проверяем достаточно ли места
+            if (!StorageUtils.hasEnoughSpace(totalRequiredSize)) {
+                long availableSpace = StorageUtils.getAvailableSpace();
+                
+                Log.w("BR-RP-STORAGE", "Not enough space. Required: " + 
+                      StorageUtils.formatBytes(totalRequiredSize) + 
+                      ", Available: " + StorageUtils.formatBytes(availableSpace));
+                
+                // Показываем dialog с предупреждением
+                StorageWarningDialog.show(this, totalRequiredSize, availableSpace, 
+                    new StorageWarningDialog.OnDialogActionListener() {
+                        @Override
+                        public void onCancel() {
+                            Log.i("BR-RP-STORAGE", "User cancelled download due to insufficient space");
+                            showMessage("Загрузка отменена");
+                            progressLoading.setVisibility(View.INVISIBLE);
+                            progressLoadingCancel.setVisibility(View.VISIBLE);
+                        }
+
+                        @Override
+                        public void onClearCache() {
+                            Log.i("BR-RP-STORAGE", "User chose to clear cache");
+                            clearGameCache();
+                            // После очистки пытаемся загрузить снова
+                            startDownload();
+                        }
+                    });
+                return;
+            }
+            
+            // Если места достаточно, начинаем загрузку
+            startDownload();
+            
+        } catch (Exception e) {
+            Log.e("BR-RP-STORAGE", "Error checking storage: " + e.getMessage(), e);
+            // В случае ошибки продолжаем загрузку
+            startDownload();
+        }
+    }
+    
+    private long calculateTotalFileSize() {
+        long totalSize = 0;
+        
+        for (Long size : fileSizesList.values()) {
+            if (size != null) {
+                totalSize += size;
+            }
+        }
+        
+        return totalSize;
+    }
+    
+    private void startDownload() {
         loadHashesTask = new InitControlHashesTask();
         loadHashesTask.execute(GAME_PATH);
+    }
+    
+    private void clearGameCache() {
+        try {
+            File gameDir = new File(GAME_PATH);
+            if (gameDir.exists() && gameDir.isDirectory()) {
+                deleteDirectory(gameDir);
+                gameDir.mkdirs();
+                Log.i("BR-RP-STORAGE", "Game cache cleared successfully");
+            }
+        } catch (Exception e) {
+            Log.e("BR-RP-STORAGE", "Error clearing game cache: " + e.getMessage(), e);
+        }
+    }
+    
+    private boolean deleteDirectory(File dir) {
+        if (dir.isDirectory()) {
+            File[] children = dir.listFiles();
+            if (children != null) {
+                for (File child : children) {
+                    deleteDirectory(child);
+                }
+            }
+        }
+        return dir.delete();
     }
 
     private void initialize(Bundle savedInstanceState) {

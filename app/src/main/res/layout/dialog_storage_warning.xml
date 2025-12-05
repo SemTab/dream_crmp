@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/background_brilliant"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="12dp"
+        android:contentDescription="Brilliant logo"
+        android:scaleType="fitCenter"
+        android:src="@drawable/logo_no_map" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="⚠"
+            android:textSize="32sp"
+            android:textColor="#ffb74d"
+            android:gravity="center"
+            android:layout_marginEnd="12dp" />
+
+        <TextView
+            android:id="@+id/storage_warning_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Недостаточно места"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/storage_warning_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Для установки кеша требуется больше свободного места"
+        android:textSize="12sp"
+        android:textColor="#cccccc"
+        android:layout_marginBottom="12dp"
+        android:lineSpacingMultiplier="1.2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#2a2a2a"
+        android:padding="10dp"
+        android:layout_marginBottom="12dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Требуется:"
+                android:textSize="11sp"
+                android:textColor="#aaaaaa" />
+
+            <TextView
+                android:id="@+id/storage_warning_required"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0 GB"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:textColor="#ffb74d" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="6dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Свободно:"
+                android:textSize="11sp"
+                android:textColor="#aaaaaa" />
+
+            <TextView
+                android:id="@+id/storage_warning_available"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0 GB"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:textColor="#81c784" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Освободить:"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:textColor="#aaaaaa" />
+
+            <TextView
+                android:id="@+id/storage_warning_to_free"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0 GB"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:textColor="#ef5350" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/storage_warning_cancel"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:text="Отмена"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            android:background="#555555"
+            android:layout_marginEnd="6dp" />
+
+        <Button
+            android:id="@+id/storage_warning_clear"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_weight="1"
+            android:text="Очистить"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            android:background="#ef5350"
+            android:layout_marginStart="6dp" />
+    </LinearLayout>
+</LinearLayout>
